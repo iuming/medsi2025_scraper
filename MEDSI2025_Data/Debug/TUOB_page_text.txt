@@ -1,0 +1,79 @@
+
+
+
+
+
+
+
+
+
+        Beamlines Session 2
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        MEDSI2025 - Proceedings Lund, Sweden
+
+
+Home
+        — Session
+        — Classification
+        — Authors 
+Institutes
+        — DOI of Institutes
+        — Keywords
+
+
+
+
+
+
+
+
+
+TUOB
+
+
+                -
+            
+
+                Beamlines Session 2
+            
+
+                16 Sep 2025, 15:20 -
+                17:00
+            
+
+
+            Chair: Paul Palecek (Brookhaven National Laboratory)
+        
+
+TUOB01Research on active feedback control of monochromator crystal angle based on FPGADuring the experiment, the photon flux at the Surface Diffraction Beamline (BL02U2) of the Shanghai Synchrotron Radiation Facility exhibited a gradual attenuation phenomenon, which severely impacted the progress of scientific experiments. At 8 keV, the photon flux decreased by 20% over a period of 20 hours; whereas at 19 keV, the photon flux dropped by 78% within just 20 minutes. To address this issue, a software correction technique was introduced. This technique involved reading the crystal angle encoder position every 5 minutes and comparing it with the target position. By compensating the difference to the coarse adjustment motor of the crystal angle, this method effectively alleviated the flux attenuation problem in the low-energy region. However, in the high-energy region, the photon flux still showed a sawtooth-like attenuation trend, with a 30% decrease within 24 hours. A solution based on FPGA was further adopted, which managed to keep the photon flux variation within 5% over a 24-hour period. This significantly enhanced the stability of the photon flux and thereby greatly improved experimental efficiency.J. He, 万. 祝, Y. Gu  Shanghai Advanced Research Institute, Chinese Academy of SciencesCite: reference for this paper using: BibTeX, LaTeX, Text/Word, RIS, EndNote
+
+
+TUOB02Active grating cooling system design for soft X-ray monochromator14We present an active cooling system for the grating mirrors of ID32 soft X-ray beamline at the European Synchrotron Radiation Facility (ESRF). The design combines flexible copper braids to minimize mechanical stress in the grating mirrors with active temperature control to accelerate thermal response. Development followed a model-based approach, integrating dynamic Simulink thermal simulations with static finite element analysis. Under variable beam heat loads, the system maintains mirror temperature stability within ±2 mK and reduces thermal settling time from several hours to under 10 minutes. Interferometric measurements confirm improved optical surface flatness, with the cooling system contributing less than 50 nrad RMS to slope error. This enhancement translates to improved beamline energy resolution from 25.6 meV to 22 meV.A. Moyne, A. Vivo, D. Coulon, F. Yakhou-Harris, K. Kummer, L. Eybert-Berard, N. Brookes, P. Brumund  European Synchrotron Radiation FacilityPaper: TUOB02DOI: reference for this paper: 10.18429/JACoW-MEDSI2025-TUOB02About:  Received: 11 Jul 2025 — Revised: 13 Sep 2025 — Accepted: 17 Sep 2025 — Issue date: 19 Sep 2025 Cite: reference for this paper using: BibTeX, LaTeX, Text/Word, RIS, EndNote
+
+
+TUOB03First steps into the operation of the SAPOTI cryogenic nanoprobe at the CARNAÚBA beamline at Sirius/LNLS18SAPOTI is the second nanoprobe at the CARNAÚBA (Coherent X-Ray Nanoprobe Beamline) beamline at the 4th-generation light source Sirius/LNLS. Working from 2.05 to 15 keV, it relies on simultaneous multi-analytical X-ray techniques (absorption, diffraction, spectroscopy, fluorescence and luminescence) and imaging in 2D and 3D. It has been designed for highly-stable fully-coherent beam sizes from 30 to 120nm, and monochromatic flux up to 1e11ph/s/100mA/0.01%BW after an achromatic KB (Kirkpatrick-Baez) focusing optics. Moreover, a new in-vacuum high-performance cryogenic sample stage has been developed aiming at single-nanometer resolution images. The nanoprobe is now successfully installed and technical commissioning is underway. The focus of this work is two-fold. Firstly, it highlights the system integration results at the beamline, namely: overall thermo-mechanical performance of the KB mirrors and sample stage. And, finally, it showcases the instrument’s technical commissioning results, namely: KB alignment and focus stability, and initial fly-scan potential for ptychography and absorption imaging.V. Bomfim Falchetto  Brazilian Synchrotron Light Laboratory, Brazilian Center for Research in Energy and MaterialsA. da Silva Sotero, A. Piccino Neto, C. Pérez, E. Pereira, F. Cirilo da SIlva, G. Basilio, G. Oehlmeyer Brunheira, H. Nogueira Tolentino, L. Kofukuda, M. Machado, P. Proença, R. Geraldes, R. Szostak, T. Silva Soares, V. de Carvalho Teixeira, Y. Antoniolli Marino  Brazilian Synchrotron Light LaboratoryPaper: TUOB03DOI: reference for this paper: 10.18429/JACoW-MEDSI2025-TUOB03About:  Received: 05 Sep 2025 — Revised: 14 Sep 2025 — Accepted: 14 Sep 2025 — Issue date: 19 Sep 2025 Cite: reference for this paper using: BibTeX, LaTeX, Text/Word, RIS, EndNote
+
+
+TUOB04Recent advances in X-ray microscopy instrumentation developments at NSLS-II22X-ray microscopy is a mature characterization tool routinely used to investigate diverse material questions of science, technology, and engineering. The high penetration power of X-rays allows the utilization of different characterization methods and reveals elemental composition, crystalline phases, strain distribution, oxidation states, etc. in macroscopic and microscopic samples. Full-field and scanning X-ray microscopes serve similar scientific purposes but prvoide technical capabilities that complement each other. In recent years, a number of X-ray microscopy systems have been designed, constructed, and commissioned at NSLS-II. During the presentation, we will provide a technical overview of recently designed microscopy instruments. It will include the design details of the Multilayer Laue Lens-based nanoprobe optimized for ~10 nm spatial resolution imaging, its current status, and future upgrades$*$,$**$ ; the zoneplate-based full-field imaging system capable of 1-minute nano-tomography measurements$***$ ; and a new Kirkpatrick-Baez based scanning microscope designed for ~200 nm spatial resolution experiments $****$.E. Nazaretski, W. Xu, D. Coburn, H. Yan, Z. Gao, X. Huang, W. Xu, N. Bouet, J. Zhou, M. Ge, W. Lee, Y. Yang, A. Kiss, Y. Chu  Brookhaven National LaboratoryPaper: TUOB04DOI: reference for this paper: 10.18429/JACoW-MEDSI2025-TUOB04About:  Received: 04 Sep 2025 — Revised: 12 Sep 2025 — Accepted: 12 Sep 2025 — Issue date: 19 Sep 2025 Cite: reference for this paper using: BibTeX, LaTeX, Text/Word, RIS, EndNote
+
+
+TUOB05Development of Coherent Diffractive Imaging Endstation at the SPring-8 II 12XU26The National Synchrotron Radiation Research Center operates two beamlines, 12B2 and 12XU, at the Super Photon ring-8 GeV. The SPring-8 II significant improvements in beam properties such as coherence, stability, and intensity are expected. NSRRC has initiated the construction of a Coherent Diffractive Imaging endstation on beamline 12XU. This endstation consists of two main subsystems: zone plate-based X-ray microscope and detector assembly. The microscope is mounted on a granite base to ensure mechanical stability and to minimize vibrational and thermal disturbances. The zone plate-based microscope comprises beam stopper, zone plate optic, optical stop aperture, and sample positioning stage. Each module is equipped with an independent XYZ piezo-driven translation stage. To further mitigate thermal drift and ensure dimensional stability, the stage bases are constructed from Invar alloy, which offers low thermal expansion characteristics critical to maintaining optical alignment over extended experimental durations. The detector system is mounted on a precision linear guideway allowing for fine adjustments of the distance to optimize image resolution and experimental flexibility.B. Chen, C. Chan, C. Chiu, C. Chen, G. Yin, H. Chen, J. Lin, K. Chu, M. Yoshimura, M. Hsu, N. Hiraoka, T. Yi-Wei, Y. Tseng, Y. Shao, Y. Huang, D. Liu  National Synchrotron Radiation Research CenterPaper: TUOB05DOI: reference for this paper: 10.18429/JACoW-MEDSI2025-TUOB05About:  Received: 04 Sep 2025 — Revised: 14 Sep 2025 — Accepted: 17 Sep 2025 — Issue date: 19 Sep 2025 Cite: reference for this paper using: BibTeX, LaTeX, Text/Word, RIS, EndNote
+
+
+
+
+

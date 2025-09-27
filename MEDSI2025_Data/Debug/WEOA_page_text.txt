@@ -1,0 +1,79 @@
+
+
+
+
+
+
+
+
+
+        Beamlines Session 3
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        MEDSI2025 - Proceedings Lund, Sweden
+
+
+Home
+        — Session
+        — Classification
+        — Authors 
+Institutes
+        — DOI of Institutes
+        — Keywords
+
+
+
+
+
+
+
+
+
+WEOA
+
+
+                -
+            
+
+                Beamlines Session 3
+            
+
+                17 Sep 2025, 10:20 -
+                12:00
+            
+
+
+            Chair: Renan Geraldes (Brazilian Synchrotron Light Laboratory)
+        
+
+WEOA01Additive manufacture, 3D-printed, metallic X-ray mirror for synchrotron & XFEL facilities125We have designed and fabricated the world’s first, Additive Manufacture (AM) mirror for X-ray beamlines. For traditional optics, beamline performance is limited by: distortion caused by mechanical clamping; heat-bumps induced by photon-beam illumination; and strain caused by differential thermal expansion when dissimilar materials are cooled. AM enables the creation of intricate internal structures, and the fusion of multiple components into a single piece [$*$]. The optical substrate, beamline mount, and internal cooling manifold were combined into a monolithic structure. The X-ray mirror was 3D-printed in aluminium alloy AlSi10Mg. Single point diamond turning created an optical surface, which was coated in ~ 75 μm of electroless NiP, followed by “super-polishing” using chemo-mechanical processing. Optical metrology demonstrates the AM mirror has surface quality comparable to a traditional silicon mirror, and is virtually immune to clamping deformations, which simplifies beamline installation. AM unlocks exotic internal channel designs, including enhanced cooling performance by turbulent flow, reducing vibrations caused by fluid flow, and conforming to the heat load distribution.S. Alcock, S. Beamish, J. Kelly, M. Bazan da Silva, P. Pradhan, R. Shurvinton, K. Sawhney  Diamond Light SourceT. Wearing  University of YorkPaper: WEOA01DOI: reference for this paper: 10.18429/JACoW-MEDSI2025-WEOA01About:  Received: 10 Sep 2025 — Revised: 15 Sep 2025 — Accepted: 15 Sep 2025 — Issue date: 19 Sep 2025 Cite: reference for this paper using: BibTeX, LaTeX, Text/Word, RIS, EndNote
+
+
+WEOA02Designing and fine-tuning cryo-cooled silicon mono-chromator crystals to minimize optical distortions caused by photon-beam heating127Slope errors on X-ray optics create distortions in the reflected or diffracted X-ray wavefront and reduce energy resolution. This study addresses this challenge by demonstrating a precise and adaptable method for tuning the geometry of liquid nitrogen (LN2)-cooled silicon crystals, with the goal of achieving zero slope errors under specified input power conditions. The findings reveal that an optimal temperature minimizes thermal distortion and slope errors at the X-ray beam footprint. By establishing a straightforward engineering approach to achieve this temperature, the study provides a practical solution for manipulating silicon crystal geometry. This technique ensures minimal slope errors across a broad energy spectrum, enhancing beamline performance and energy resolution. This work overcomes a longstanding limitation in particle accelerator beamlines, where conventional approaches relied on extensive cooling to mitigate thermal effects. The proposed methodology not only improves operational efficiency but also offers a versatile tool for fine-tuning crystal behavior in response to varying energy demands.P. Sanchez Navarro, A. Peach, S. Alcock  Diamond Light SourcePaper: WEOA02DOI: reference for this paper: 10.18429/JACoW-MEDSI2025-WEOA02About:  Received: 05 Sep 2025 — Revised: 15 Sep 2025 — Accepted: 15 Sep 2025 — Issue date: 19 Sep 2025 Cite: reference for this paper using: BibTeX, LaTeX, Text/Word, RIS, EndNote
+
+
+WEOA032-color pump probe optical delay lineThe SASE3 soft X-Ray beamline at the European XFEL is equipped with a magnetic chicane allowing two-color X-ray pump probe experiments. This chicane splits the undulator area in two, the first part generates photons with a specific wavelength, then the electron beam is delayed with respect to the produced photons and lasers in the second section at another wavelength. The Optical Delay Line (ODL) installed along the photon path will increase the variety of experiments achievable. The ODL consists in four flat mirrors mounted in a vertical chicane geometry creating a fix delay to the photons produced and allows, in combination with the variable magnetic chicane, the two pulses to be crossed with negative or zero-time delay. The device adjustments need a motion resolution down to tens of nanometer and very high stability due to the long distance to the experiment (≃520m). All mechanics are mounted in UHV and particle free conditions and comply to the electron accelerator specifications. The ODL project is a collaborative effort of European XFEL and FMB Berlin GmbH. In this contribution, the conceptual design, final design, mechanical challenges and the first tests are described.M. Planas Carbonell, A. Koch, B. Rio, D. La Civita, F. Yang, H. Sinn, M. Tavakkoly, M. Vannoni, M. Meyer  European X-Ray Free-Electron LaserC. Schröter, H. Ryll, K. Blümer  FMB Feinwerk- und Messtechnik (Germany)L. Müller, T. Wohlenberg  Deutsches Elektronen-Synchrotron DESYCite: reference for this paper using: BibTeX, LaTeX, Text/Word, RIS, EndNote
+
+
+WEOA04SPIDER – a Scanning Platform for Imaging and Diffraction with Extreme ResolutionExperiments with Nano-meter resolution, as planned at PETRA IV, require highly stable experimental conditions. Here, the relative position of sample and optics in the experiment and the highest degree of positional stability are of crucial importance. However, this requires extensive study of interactions between Nano-focusing optics, dynamic scanners, and precise position detection. Aim of the SPIDER project is to develop a modular setup that meets the high stability requirements of the experiments at PETRA IV and can be used either in the laboratory for performance tests or in synchrotron experiments at PETRA. According to the project specifications, we have designed the platform based on several main modules. These can be flexibly combined with other modules in various configurations. The structure of these main modules was also largely realized modular in order to be flexible and sustainable. This contribution, introduce the general concept of SPIDER and describe the design of the SPIDER platform and the individual modules in detail. We will also present some of the initial results from studies that have been carried out recently.R. Doehrmann, P. Wiljes, S. Botta  Deutsches Elektronen-Synchrotron DESYCite: reference for this paper using: BibTeX, LaTeX, Text/Word, RIS, EndNote
+
+
+WEOA05A compact, high throughput SVLS spectrometer for LCLS-II131A spherical variable line spacing (SVLS) grating spectrometer has been designed and commissioned for use at the ChemRIXS endstation at the Linac Coherent Light Source (LCLS), SLAC National Accelerator Laboratory. We present the design evolution, capabilities, and performance of the SVLS, which was developed to facilitate resonant inelastic X-ray scattering (RIXS) experiments across a broad range of photon energies (250–1200 eV) on the LCLS-II beam. The SVLS spectrometer leverages a spherical grating to achieve simultaneous imaging and spectral dispersion with high energy resolution, while maintaining a compact form factor. A key design feature is its modular architecture, consisting of three components: a grating chamber containing the optic and its conditioning units, slits, and a foil; a rotation arm housing the detector; and a vertical stage that drives the detector to its intended diffraction angles. The 36-megapixel sCMOS camera is inclined at a 20° grazing angle to maximize spatial resolution, resulting in a resolving power exceeding 2000 across the relevant photon energy range and offering more than 30× higher throughput compared to existing spectrometers at SLAC.J. Torras, H. Wang, K. Kunnus  SLAC National Accelerator LaboratoryJ. Dvorak  Brookhaven National LaboratoryPaper: WEOA05DOI: reference for this paper: 10.18429/JACoW-MEDSI2025-WEOA05About:  Received: 11 Sep 2025 — Revised: 14 Sep 2025 — Accepted: 14 Sep 2025 — Issue date: 19 Sep 2025 Cite: reference for this paper using: BibTeX, LaTeX, Text/Word, RIS, EndNote
+
+
+
+
+

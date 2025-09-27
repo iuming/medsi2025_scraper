@@ -1,0 +1,24 @@
+Session: WEOA - Beamlines Session 3
+Session ID: 1040-weoa
+URL: https://meow.elettra.eu/88/session/1040-weoa/index.html
+爬取时间: 2025-09-27 10:22:48
+论文数量: 2
+可用PDF: 2/2
+================================================================================
+
+1. 论文ID: WEOA01
+   标题: Additive manufacture,
+   页码: 3
+   PDF状态: ✓ 可下载
+   PDF链接: https://meow.elettra.eu/88/pdf/WEOA01.pdf
+   DOI: https://doi.org/10.18429/JACoW-MEDSI2025-WEOA01
+   摘要: D-printed, metallic X-ray mirror for synchrotron & XFEL facilities125We have designed and fabricated the world’s first, Additive Manufacture (AM) mirror for X-ray beamlines. For traditional optics, beamline performance is limited by: distortion caused by mechanical clamping; heat-bumps induced by ph...
+------------------------------------------------------------
+2. 论文ID: WEOA02
+   标题: Designing and fine-tuning cryo-cooled silicon mono-chromator crystals to minimize optical distortions caused by photon-beam heating
+   页码: 127
+   PDF状态: ✓ 可下载
+   PDF链接: https://meow.elettra.eu/88/pdf/WEOA02.pdf
+   DOI: https://doi.org/10.18429/JACoW-MEDSI2025-WEOA02
+   摘要: Slope errors on X-ray optics create distortions in the reflected or diffracted X-ray wavefront and reduce energy resolution. This study addresses this challenge by demonstrating a precise and adaptable method for tuning the geometry of liquid nitrogen (LN2)-cooled silicon crystals, with the goal of ...
+------------------------------------------------------------

@@ -1,0 +1,73 @@
+
+
+
+
+
+
+
+
+
+        Keynote Session 2
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        MEDSI2025 - Proceedings Lund, Sweden
+
+
+Home
+        — Session
+        — Classification
+        — Authors 
+Institutes
+        — DOI of Institutes
+        — Keywords
+
+
+
+
+
+
+
+
+
+TUKB
+
+
+                -
+            
+
+                Keynote Session 2
+            
+
+                16 Sep 2025, 10:20 -
+                12:00
+            
+
+
+            Chair: Carles Colldelram (ALBA-CELLS Synchrotron)
+        
+
+TUKB01MAX 4U - Our vision for MAX IVIn 2016, MAX IV inaugurated the first fourth-generation storage ring in the world. With unprecedented performance, this new accelerator paved the way for a new era of X-ray science. Currently, four more fourth-generation light sources are in operation, with many more to come online by 2040. Overall, the accelerator community is making considerable advancements in Multi-Bend Achromat (MBA)-type lattices. This is to such an extent that, whereas MAX IV paved the way for fourth-generation light sources, we will have difficulties competing with other synchrotrons in the future. With this in mind, we developed our vision for the laboratory to ensure the excellence, relevance, and leadership of Swedish academic and industrial research with X-rays for the next decades. This is called MAX 4U, and is our proposal to upgrade our 3GeV storage ring$*$. MAX 4U will reduce the 3GeV ring horizontal emittance further from the current of 328pm×rad to better than 100pm×rad on the horizon of the early 2030s. Beyond an accelerator upgrade, MAX 4U provides opportunities for beamline performance improvements that will keep MAX IV a leading platform for accelerating science, discovery, and innovation.A. ROBERT  MAX IV LaboratoryCite: reference for this paper using: BibTeX, LaTeX, Text/Word, RIS, EndNote
+
+
+TUKB02MAX 4U: Accelerator physics and engineering challenges of the first upgrade of a fourth-generation synchrotron light sourceThe MAX IV 3 GeV storage ring in Lund, Sweden, is the first multibend achromat (MBA) lattice fourth-generation light source worldwide and delivered at the time of its inauguration, in June 2016, a world-record ultralow electron beam emittance of 328 pm rad with a corresponding ultrahigh photon beam brightness. This contribution summarizes the accelerator physics and engineering challenges to implement the first ever upgrade of a fourth-generation source$*$ aimed at reducing the electron beam emittance further down to below 100 pm rad. We focus in particular on the engineering design concepts proposed to enable this major performance boost through a minimum-interference upgrade in which localized interventions in selected subsystems and components are carefully chosen to provide the maximum impact with minimum cost and, equally important, minimum dark time for the MAX IV user community.P. Tavares  MAX IV LaboratoryCite: reference for this paper using: BibTeX, LaTeX, Text/Word, RIS, EndNote
+
+
+TUKB03The European Spallation Source – ESS: Mechanical engineering and structural health monitoring.European Spallation Source (ESS) is a multi-disciplinary research facility currently being commissioned with major upcoming milestones for starting up operations. The mission of ESS is to operate the world’s most powerful accelerator-based neutron source to enable scientific breakthroughs in the areas of materials, energy, health and the environment. ESS is a multi-disciplinary research facility currently under commissioning. Neutrons are obtained through the process of spallation by delivering 2 GeV protons to the solid tungsten target. The Mechanical Engineering, Technology & Analysis (META) group develops and performs mechanical engineering on facility level as well as performs the consolidated machine design under the ESS Plant Layout. ESS pursues stringent goals for machine availability and reliability with the META group implementing Structural Health Monitoring (SHM) techniques and Non-Destructive Testing (NDT) focusing on ultrasound, optical and modal, to validate machines’ behavior, monitoring the aging effects and achieve steady state operations.N. Gazis  European Spallation Source, European Spallation Source ERICCite: reference for this paper using: BibTeX, LaTeX, Text/Word, RIS, EndNote
+
+
+
+
+

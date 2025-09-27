@@ -1,0 +1,408 @@
+Session: WEP - Poster Session 2
+Session ID: 929-wep
+URL: https://meow.elettra.eu/88/session/929-wep/index.html
+爬取时间: 2025-09-27 10:23:39
+论文数量: 50
+可用PDF: 29/50
+================================================================================
+
+1. 论文ID: WEP01
+   标题: A concept improvement design of the girder adjustment system for TPS storage ring
+   页码: 161
+   PDF状态: ✓ 可下载
+   PDF链接: https://meow.elettra.eu/88/pdf/WEP01.pdf
+   DOI: https://doi.org/10.18429/JACoW-MEDSI2025-WEP01
+   摘要: The girder adjustment system of TPS storage ring can fine adjust each girder in 6 axes with 6 kinematic mounting motorized cam movers. The installation of the TPS had demonstrated this design. However, this design is freely mounted with gravity and the 1st natural frequency is less than 30 Hz even w...
+------------------------------------------------------------
+2. 论文ID: WEP02
+   标题: As built front ends for the Advance Photon Source MBA upgrade
+   页码: 164
+   PDF状态: ✓ 可下载
+   PDF链接: https://meow.elettra.eu/88/pdf/WEP02.pdf
+   DOI: https://doi.org/10.18429/JACoW-MEDSI2025-WEP02
+   摘要: The Advanced Photon Source (APS) upgrade from double-bend achromats (DBA) to multi-bend achro-mats (MBA) lattice is completed. All storage ring components and front ends were installed between April 2023 to April 2024 and fully commissioned. Some major changes have been made on front ends since our ...
+------------------------------------------------------------
+3. 论文ID: WEP04
+   标题: Collaborative design with an integrated CAD model in the PETRA IV project
+   页码: 167
+   PDF状态: ✓ 可下载
+   PDF链接: https://meow.elettra.eu/88/pdf/WEP04.pdf
+   DOI: https://doi.org/10.18429/JACoW-MEDSI2025-WEP04
+   摘要: The PETRA IV project involves the refurbishment of the 2.3 km PETRA accelerator to accommodate almost 40 beamlines. It also includes the conversion and construction of numerous buildings, including a large experimental hall, with first light planned for 2032. To support planning and design with a mo...
+------------------------------------------------------------
+4. 论文ID: WEP05
+   标题: Systematic reduction of lattice complexity through variant minimization
+   页码: 170
+   PDF状态: ✓ 可下载
+   PDF链接: https://meow.elettra.eu/88/pdf/WEP05.pdf
+   DOI: https://doi.org/10.18429/JACoW-MEDSI2025-WEP05
+   摘要: The design of an accelerator system requires translating the lattice into an engineering design model from which the machine can be built, fulfilling the requirements of beam dynamics and from mechanical engineering. To achieve this in an efficient manner, a systematic and manageable iterative desig...
+------------------------------------------------------------
+5. 论文ID: WEP06
+   标题: Compact permanent magnets for small bore accelerators
+   页码: 173
+   PDF状态: ✓ 可下载
+   PDF链接: https://meow.elettra.eu/88/pdf/WEP06.pdf
+   DOI: https://doi.org/10.18429/JACoW-MEDSI2025-WEP06
+   摘要: In synchrotron light sources, electromagnets are used to bend and accelerate electron beams. In 4th generation sources, the electron beam can fit in smaller bore accelerators, allowing the use of permanent magnets, which have many advantages over electromagnets. This poster focuses on the mechanical...
+------------------------------------------------------------
+6. 论文ID: WEP08
+   标题: Cooled photoelectron shields on the first mirror of the MAX IV soft x-ray beamlinesThe higher brightness of
+   页码: 4
+   PDF状态: ✗ 不可用
+   PDF链接: https://meow.elettra.eu/88/pdf/WEP08.pdf
+   DOI: https://doi.org/10.18429/JACoW-MEDSI2025-WEP08
+   摘要: th-generation storage rings comes with smaller beam sizes and narrower radiation cones, which in turn can deposit higher power density in the optical components. Maximizing the stability from the source to the sample via the many optical components depends on good mechanics and dealing effectively w...
+------------------------------------------------------------
+7. 论文ID: WEP10
+   标题: Design and analysis of photon absorbers for Korea-
+   页码: 4
+   PDF状态: ✗ 不可用
+   PDF链接: https://meow.elettra.eu/88/pdf/WEP10.pdf
+   DOI: https://doi.org/10.18429/JACoW-MEDSI2025-WEP10
+   摘要: GSRKorea-4GSR, which is currently being developed in Korea, aims to provide high performance photon beams. In this work, I present the design and thermodynamic simulation of the photon absorption system to be installed in Korea-4GSR. In synchrotron accelerators, managing the intense photon flux gene...
+------------------------------------------------------------
+8. 论文ID: WEP11
+   标题: Design and analysis of the ALS-U Photon Transport LineThe Advanced Light Source Upgrade (ALS-U) will increase the brightness and coherent flux of soft X-rays by a factor of
+   页码: 100
+   PDF状态: ✗ 不可用
+   PDF链接: https://meow.elettra.eu/88/pdf/WEP11.pdf
+   DOI: https://doi.org/10.18429/JACoW-MEDSI2025-WEP11
+   摘要: through the use of a multibend achromat lattice. While maintaining a similar number of beamlines, this enhancement introduces significant challenges in packaging photon transport line (PTL) components and managing elevated thermal loads within increasingly constrained spaces. To address these issues...
+------------------------------------------------------------
+9. 论文ID: WEP12
+   标题: Design and development of the beam collimators for CiADS
+   页码: 176
+   PDF状态: ✓ 可下载
+   PDF链接: https://meow.elettra.eu/88/pdf/WEP12.pdf
+   DOI: https://doi.org/10.18429/JACoW-MEDSI2025-WEP12
+   摘要: China initiative Accelerator Driven System (CiADS) consists of a 350m-long linac, a spallation target, a sub-critical reactor and several experimental terminals. The linac will provide protons at the energy of 500MeV with 2.5MW power. In order to keep the uncontrolled beam loss along the beam transp...
+------------------------------------------------------------
+10. 论文ID: WEP13
+   标题: Design and implementation of an in-vacuum magnetic field measurement system for the TPS nonlinear in-vacuum kicker
+   页码: 180
+   PDF状态: ✓ 可下载
+   PDF链接: https://meow.elettra.eu/88/pdf/WEP13.pdf
+   DOI: https://doi.org/10.18429/JACoW-MEDSI2025-WEP13
+   摘要: The Taiwan Photon Source (TPS) storage ring employs a traditional four-kicker bump off-axis injection scheme, which can introduce perturbations to the stored beam during the injection phase. To address these issues and facilitate stable top-up injection, a Nonlinear In-vacuum Kicker (NIK) has been d...
+------------------------------------------------------------
+11. 论文ID: WEP14
+   标题: Design and implementation of an optical diagnostic beamline at the BESSY II injection line
+   页码: 183
+   PDF状态: ✓ 可下载
+   PDF链接: https://meow.elettra.eu/88/pdf/WEP14.pdf
+   DOI: https://doi.org/10.18429/JACoW-MEDSI2025-WEP14
+   摘要: In order to improve and extend the current diagnostic system of the third-generation synchrotron radiation source BESSY II, a source point imaging system is being developed. This paper presents the conceptual design, including technical requirements, simulation results, and expectations for the opti...
+------------------------------------------------------------
+12. 论文ID: WEP15
+   标题: Design and implementation of a parallel linkage mechanism with spring assembly for magnetic force compensation in insertion devices
+   页码: 186
+   PDF状态: ✓ 可下载
+   PDF链接: https://meow.elettra.eu/88/pdf/WEP15.pdf
+   DOI: https://doi.org/10.18429/JACoW-MEDSI2025-WEP15
+   摘要: This study presents the design and fabrication of a me-chanical compensation system aimed at neutralizing the magnetic attraction forces inherent in insertion devices (IDs) used in synchrotron radiation facilities. In long IDs, such as those measuring 4 meters in length, multiple compensation module...
+------------------------------------------------------------
+13. 论文ID: WEP16
+   标题: Mechanical design of the in-vacuum tapered undulator at Taiwan Photon Source
+   页码: 190
+   PDF状态: ✓ 可下载
+   PDF链接: https://meow.elettra.eu/88/pdf/WEP16.pdf
+   DOI: https://doi.org/10.18429/JACoW-MEDSI2025-WEP16
+   摘要: Synchrotron light sources commonly provide users with two types of insertion devices for experiments in biology, medicine, and other fields: in-vacuum undulators (IU) with short period lengths for medium-energy photon sources and cryogenic permanent magnet undulators (CPMU) for higher photon energy....
+------------------------------------------------------------
+14. 论文ID: WEP17
+   标题: Design of a damping wiggler at SPring-
+   页码: 8
+   PDF状态: ✓ 可下载
+   PDF链接: https://meow.elettra.eu/88/pdf/WEP17.pdf
+   DOI: https://doi.org/10.18429/JACoW-MEDSI2025-WEP17
+   摘要: -II as a high-energy X-ray source193SPring-8 will be upgraded to SPring-8-II, a fourth-generation synchrotron with a multi-bend achromat lattice, by 2028. The beam energy will be reduced from 8 to 6 GeV, substantially lowering emittance. To further reduce the emittance, a damping wiggler is planned ...
+------------------------------------------------------------
+15. 论文ID: WEP18
+   标题: Design of a mirror chamber for the FL
+   页码: 24
+   PDF状态: ✗ 不可用
+   PDF链接: https://meow.elettra.eu/88/pdf/WEP18.pdf
+   DOI: https://doi.org/10.18429/JACoW-MEDSI2025-WEP18
+   摘要: with 5-axis precision adjustment and additional fast pneumatic movement out of the beamFor the new pulse-length-preserving monochromator beamline FL23 at FLASH2, the beam is horizontally decoupled from the straight line at FL24 by means of a non-planar mirror. The mirror is adjustable in all three r...
+------------------------------------------------------------
+16. 论文ID: WEP23
+   标题: Development of high stability mirror systems at HALF
+   页码: 201
+   PDF状态: ✓ 可下载
+   PDF链接: https://meow.elettra.eu/88/pdf/WEP23.pdf
+   DOI: https://doi.org/10.18429/JACoW-MEDSI2025-WEP23
+   摘要: Hefei Advanced Light Source (HALF) is a diffraction-limited light source in the soft X-ray range. It provides a powerful tool for nano-focusing, ultra-high spectral-resolution power experiments and applications. To fully utilize the source characteristics, beamline mirrors and manipulators require h...
+------------------------------------------------------------
+17. 论文ID: WEP24
+   标题: Development of LN₂ cooled permanent magnet undulatorsThis work presents a novel design for a cryogenically cooled permanent magnet undulator (CPMU), advancing compact, high-field insertion devices for synchrotron light source PETRA IV at DESY. Operating at cryogenic temperatures allows significantly smaller gaps and higher fields than conventional undulators. The proposed
+   页码: 4
+   PDF状态: ✗ 不可用
+   PDF链接: https://meow.elettra.eu/88/pdf/WEP24.pdf
+   DOI: https://doi.org/10.18429/JACoW-MEDSI2025-WEP24
+   摘要: m long device, the longest of its kind, uses high-performance PrFeB magnets in a hybrid structure. The inner and outer girder design is optimized through mechanical simulations to endure strong magnetic forces while maintaining micrometer tolerances. Forces up to 35 kN are compensated using auxiliar...
+------------------------------------------------------------
+18. 论文ID: WEP25
+   标题: Development of permanent magnets replacing electromagnets at NSRRC
+   页码: 205
+   PDF状态: ✓ 可下载
+   PDF链接: https://meow.elettra.eu/88/pdf/WEP25.pdf
+   DOI: https://doi.org/10.18429/JACoW-MEDSI2025-WEP25
+   摘要: Integrating permanent magnets as substitutes for large electromagnets offers advantages such as energy savings, space efficiency, and low maintenance. An electromagnetic dipole magnet on the TPS transfer line is proposed to be replaced by a permanent magnet. This permanent magnet will be hybridized ...
+------------------------------------------------------------
+19. 论文ID: WEP26
+   标题: Development of Radial Magic Finger Design for Permanent Magnet Quadrupole
+   页码: 209
+   PDF状态: ✓ 可下载
+   PDF链接: https://meow.elettra.eu/88/pdf/WEP26.pdf
+   DOI: https://doi.org/10.18429/JACoW-MEDSI2025-WEP26
+   摘要: Permanent Magnets (PM) have been widely used in Synchrotron Light Sources for insertion devices and recently for the accelerator multipole magnets. The NSLS-II accelerator upgrade is based on the complex bend lattice that will use combined function permanent magnet-based dipole-Quadrupole (PMQ)*. Th...
+------------------------------------------------------------
+20. 论文ID: WEP29
+   标题: Elettra
+   页码: 2
+   PDF状态: ✓ 可下载
+   PDF链接: https://meow.elettra.eu/88/pdf/WEP29.pdf
+   DOI: https://doi.org/10.18429/JACoW-MEDSI2025-WEP29
+   摘要: .0 discrete storage ring photon absorbers216The Elettra 2.0 project is upgrading the Elettra synchrotron radiation facility to 4th generation standards. This paper presents the overall photon absorption strategy adopted in the design, which includes both distributed and localized absorption of emitt...
+------------------------------------------------------------
+21. 论文ID: WEP30
+   标题: Enhancing the performance of old X-ray mirrors through surface figure correctionThe X-ray Optics Laboratory at the Pohang Accelerator Laboratory is advancing synchrotron radiation research by enhancing X-ray mirror performance through in-house precision metrology and coating technologies. A thin-film deposition system was developed for coating X-ray mirrors up to
+   页码: 1
+   PDF状态: ✗ 不可用
+   PDF链接: https://meow.elettra.eu/88/pdf/WEP30.pdf
+   DOI: https://doi.org/10.18429/JACoW-MEDSI2025-WEP30
+   摘要: meter in length. By precisely controlling the substrate stage speed, the system can correct and modify the surface figure of the mirror. Differential deposition is achieved by continuously adjusting the substrate's movement during coating. The stage control system calculates the dwell time using dec...
+------------------------------------------------------------
+22. 论文ID: WEP31
+   标题: Flange aperture gap RF contact gasket for Elettra
+   页码: 2
+   PDF状态: ✓ 可下载
+   PDF链接: https://meow.elettra.eu/88/pdf/WEP31.pdf
+   DOI: https://doi.org/10.18429/JACoW-MEDSI2025-WEP31
+   摘要: .0 storage ring220The fourth-generation X-ray source Elettra 2.0, currently under development, aims to significantly enhance the brilliance and coherence of the emitted light, with high currents and ultra-low emittances as design goals. Fourth generation machines have tight constraints in terms of b...
+------------------------------------------------------------
+23. 论文ID: WEP32
+   标题: Improving the sputtered titanium film for the NIK ceramic chamber in TPS
+   页码: 224
+   PDF状态: ✓ 可下载
+   PDF链接: https://meow.elettra.eu/88/pdf/WEP32.pdf
+   DOI: https://doi.org/10.18429/JACoW-MEDSI2025-WEP32
+   摘要: The development of the Nonlinear In-vacuum Kicker (NIK) is one of the key projects of the Taiwan Photon Source (TPS). Efficient conduction of the image current generated by the stored beam requires the deposition of a highly conductive titanium thin film on the inner surface of the NIK ceramic chamb...
+------------------------------------------------------------
+24. 论文ID: WEP36
+   标题: LiDAR-based
+   页码: 3
+   PDF状态: ✗ 不可用
+   PDF链接: https://meow.elettra.eu/88/pdf/WEP36.pdf
+   DOI: https://doi.org/10.18429/JACoW-MEDSI2025-WEP36
+   摘要: D scanning for accurate infrastructure modeling at MAX IVThis project explores the use of advanced 3D scanning technology at MAX IV, focusing on the Leica RTC360 scanner to capture high-precision scans of accelerator tunnels and restricted beamline areas. Known for its rapid scanning and accuracy (1...
+------------------------------------------------------------
+25. 论文ID: WEP37
+   标题: Longitudinal gradient bending magnet(LGBM) permanent magnet for Korea-
+   页码: 4
+   PDF状态: ✗ 不可用
+   PDF链接: https://meow.elettra.eu/88/pdf/WEP37.pdf
+   DOI: https://doi.org/10.18429/JACoW-MEDSI2025-WEP37
+   摘要: GSR ProjectA 4th generation storage ring based light source is being developed in Korea since 2021. It features &LT60 pm rad intrinsic beam emittance, about 800 m circumference, 4 GeV e-beam energy, full energy booster injection, and more than 40 beamlines which includes more than 24 insertion devic...
+------------------------------------------------------------
+26. 论文ID: WEP41
+   标题: Mechanical analysis of quadrupole magnets for the
+   页码: 3
+   PDF状态: ✗ 不可用
+   PDF链接: https://meow.elettra.eu/88/pdf/WEP41.pdf
+   DOI: https://doi.org/10.18429/JACoW-MEDSI2025-WEP41
+   摘要: GeV storage ring of Siam Photon Source IIQuadrupole magnets for the 3 GeV storage ring of Siam Photon Source II (SPS-II) focus and defocus the electron beam according to the lattice design. This work investigates the impact of fabrication errors on the magnetic field of quadrupole magnets. Magnetic ...
+------------------------------------------------------------
+27. 论文ID: WEP42
+   标题: Mechanical design and development status of a Superconducting Wavelength Shifter for Sirius
+   页码: 230
+   PDF状态: ✓ 可下载
+   PDF链接: https://meow.elettra.eu/88/pdf/WEP42.pdf
+   DOI: https://doi.org/10.18429/JACoW-MEDSI2025-WEP42
+   摘要: A cryogen-free Superconducting Wavelength Shifter (SWLS) designed to generate a peak magnetic field of 6.6 T, operating at 5 K, is currently under development for an upcoming hard X-ray beamline of Sirius, the Brazilian synchrotron fourth-generation light source. This work presents an overview of th...
+------------------------------------------------------------
+28. 论文ID: WEP45
+   标题: Mechanical design of the Diamond-II injection striplines
+   页码: 236
+   PDF状态: ✓ 可下载
+   PDF链接: https://meow.elettra.eu/88/pdf/WEP45.pdf
+   DOI: https://doi.org/10.18429/JACoW-MEDSI2025-WEP45
+   摘要: Transparent injection is a key goal of the upgrade of Diamond Light Source to a fourth-generation synchrotron, Diamond-II. This work presents the mechanical design of the Diamond-II K01 straight, which includes three pairs of injection stripline modules, and highlights the following aspects of the d...
+------------------------------------------------------------
+29. 论文ID: WEP46
+   标题: Mechanical engineering design of the Diamond-II injection systems
+   页码: 240
+   PDF状态: ✓ 可下载
+   PDF链接: https://meow.elettra.eu/88/pdf/WEP46.pdf
+   DOI: https://doi.org/10.18429/JACoW-MEDSI2025-WEP46
+   摘要: This work presents the mechanical engineering design of the Diamond-II injector, which includes a new low-emittance booster with combined function magnets, modifications to the existing transfer lines and a novel storage ring injection scheme. The latter features two alternative schemes: the first s...
+------------------------------------------------------------
+30. 论文ID: WEP47
+   标题: Mechanical evaluation and CAD modeling for MAX
+   页码: 4
+   PDF状态: ✓ 可下载
+   PDF链接: https://meow.elettra.eu/88/pdf/WEP47.pdf
+   DOI: https://doi.org/10.18429/JACoW-MEDSI2025-WEP47
+   摘要: ᵁ: MAXIV storage ring upgrade244MAX 4U is an upgrade project of the MAX IV 3 GeV storage ring, to be realized by the early 2030’s in Lund, Sweden. The goal of the upgrade is to reduce the horizontal electron beam emittance to below 100 pm.rad. A new magnet lattice will be used to achieve this goal. ...
+------------------------------------------------------------
+31. 论文ID: WEP48
+   标题: Mechanical structure upgrade of the Pivot KB mirror system for improved vibration and stabilityAt this conference, we introduce an upgraded Kirkpatrick–Baez (KB) mirror system developed by the Pohang Accelerator Laboratory (PAL) for the PLS-II beamline. PAL is also actively involved in designing KB mirrors for the upcoming Korea
+   页码: 4
+   PDF状态: ✗ 不可用
+   PDF链接: https://meow.elettra.eu/88/pdf/WEP48.pdf
+   DOI: https://doi.org/10.18429/JACoW-MEDSI2025-WEP48
+   摘要: GSR project, aiming to enhance the overall stability and precision of synchrotron beamline optics. To address vibration and axis instability, the KB mirror structure originally designed for PLS-II has undergone major mechanical improvements. Key upgrades include ultra-high vacuum (UHV) actuators, In...
+------------------------------------------------------------
+32. 论文ID: WEP49
+   标题: Mechanical system of the double-period undulator prototype for SHINE
+   页码: 247
+   PDF状态: ✓ 可下载
+   PDF链接: https://meow.elettra.eu/88/pdf/WEP49.pdf
+   DOI: https://doi.org/10.18429/JACoW-MEDSI2025-WEP49
+   摘要: The Shanghai High repetition rate XFEL and Extreme light facility (SHINE) is under construction and aims at generating X-rays between 0.4 and 25 keV with three FEL beamlines at repetition rates of up to 1 MHz [1-3]. The three FEL beamlines of the SHINE are referred to as the FEL-I, FEL-II, and FEL-I...
+------------------------------------------------------------
+33. 论文ID: WEP50
+   标题: Mockup assembly of an SRF module: spaceframe as tooling and structural support for highly HOM-damped cavities
+   页码: 250
+   PDF状态: ✓ 可下载
+   PDF链接: https://meow.elettra.eu/88/pdf/WEP50.pdf
+   DOI: https://doi.org/10.18429/JACoW-MEDSI2025-WEP50
+   摘要: To support the VSR cavities with five protruding waveguides, a space frame was engineered to serve a dual purpose: providing structural support and functioning as tooling during assembly. This space frame facilitates cavity rotation in the cleanroom, simplifying the installation of HOM loads and fun...
+------------------------------------------------------------
+34. 论文ID: WEP51
+   标题: NMX neutron instrument installation in the bunker area at the European Spallation SourceThe European Spallation Source (ESS) is currently in the process of designing and installing
+   页码: 15
+   PDF状态: ✗ 不可用
+   PDF链接: https://meow.elettra.eu/88/pdf/WEP51.pdf
+   DOI: https://doi.org/10.18429/JACoW-MEDSI2025-WEP51
+   摘要: neutron beamlines, each aimed at supporting a diverse range of experimental techniques. These beamlines will provide scientists from various fields with unprecedented opportunities for groundbreaking research. The installation of the beamlines presents significant challenges, as both the infrastruct...
+------------------------------------------------------------
+35. 论文ID: WEP52
+   标题: Optical metrology of SOLEIL II prototype long focal bendable mirrorIn preparation for the SOLEIL storage ring upgrade, the SWING beamline has replaced its bendable vertically focusing optic with a state of the art mirror. Acceptance tests were conducted at SOLEIL’s Optical Metrology Laboratory. Driven by two stepper motors with absolute encoders, the mirror enables precise torque control and a wide range of elliptical shapes. This presentation will cover interferometric measurements, motor motion characterization, surface quality assessments, mirror shaping strategies, and calibration for beamline integration. We will detail the use of tiling and stitching methods on a Fizeau interferometer to characterize surfaces with slope errors below
+   页码: 0
+   PDF状态: ✗ 不可用
+   PDF链接: https://meow.elettra.eu/88/pdf/WEP52.pdf
+   DOI: https://doi.org/10.18429/JACoW-MEDSI2025-WEP52
+   摘要: .1 µrad, crucial for next-generation synchrotron sources. The impact of vibrations and temperature variations on measurements will be discussed, along with mitigation techniques. We will also present topography results, statistical analyses, and the installation process, concluding with initial beam...
+------------------------------------------------------------
+36. 论文ID: WEP53
+   标题: PETRA IV: Frontend designNew frontends are required to upgrade the PETRA accelerator to the
+   页码: 4
+   PDF状态: ✗ 不可用
+   PDF链接: https://meow.elettra.eu/88/pdf/WEP53.pdf
+   DOI: https://doi.org/10.18429/JACoW-MEDSI2025-WEP53
+   摘要: th generation. The design is based on the original design concept developed for the photon beamline frontends at PETRA III. The newly designed frontends aimed at using the same proven components and minimizing of the number of girder variations. In addition, a lot of the old components (complete gir...
+------------------------------------------------------------
+37. 论文ID: WEP54
+   标题: Precision by design: The eight-piece quadrupole method for high-precision pole tip placementThe
+   页码: 8
+   PDF状态: ✗ 不可用
+   PDF链接: https://meow.elettra.eu/88/pdf/WEP54.pdf
+   DOI: https://doi.org/10.18429/JACoW-MEDSI2025-WEP54
+   摘要: -piece quadrupole method, developed and patented by the Advanced Photon Source (APS) for APS-Upgrade magnets, is a manufacturing and assembly technique in which magnet pole tips and core quarters are machined separately to standard machining tolerances and bolted together during assembly. The APS-U ...
+------------------------------------------------------------
+38. 论文ID: WEP55
+   标题: Progression of the development of a four-crystal monochromator for PETRA IV
+   页码: 254
+   PDF状态: ✓ 可下载
+   PDF链接: https://meow.elettra.eu/88/pdf/WEP55.pdf
+   DOI: https://doi.org/10.18429/JACoW-MEDSI2025-WEP55
+   摘要: The development of a four-crystal monochromator (4CM) represents a crucial step in advancing beamline instrumentation for PETRA IV, DESY’s upcoming ultralow-emittance synchrotron source. Conceived to fulfil the stringent requirements of fourth generation light sources, the 4CM as a device without hi...
+------------------------------------------------------------
+39. 论文ID: WEP56
+   标题: Progress of front ends at HALFHefei Advanced Light Facility (HALF) is a
+   页码: 4
+   PDF状态: ✗ 不可用
+   PDF链接: https://meow.elettra.eu/88/pdf/WEP56.pdf
+   DOI: https://doi.org/10.18429/JACoW-MEDSI2025-WEP56
+   摘要: th generation synchrotron radiation facility building in Hefei, with a 2.2 GeV storage ring perimeter of 479.86 m and 40 straight sections. In phase I, 11 front ends will be installed, including 10 undulator front ends and 1 bending magnet front end. 10 undulator beamlines will be open to users, whi...
+------------------------------------------------------------
+40. 论文ID: WEP57
+   标题: Stitching Fizeau interferometry for X-ray optics metrology at MAX IVPrecise metrology of synchrotron optics is essential for maintaining the performance of X-ray beamlines at diffraction-limited storage rings. We are developing a stitching Fizeau interferometer system designed to measure large synchrotron X-ray mirrors and gratings. Using a stitching approach, the system will provide full-aperture measurements of curved and flat surfaces, with sub-nanometre accuracy over lengths up to
+   页码: 0
+   PDF状态: ✗ 不可用
+   PDF链接: https://meow.elettra.eu/88/pdf/WEP57.pdf
+   DOI: https://doi.org/10.18429/JACoW-MEDSI2025-WEP57
+   摘要: .75 m. The system will integrate a stable Fizeau interferometer with a motorized, multi-axis positioning platform, enabling automated scanning and acquisition across large optical surfaces presented sideways. Surface maps will be reconstructed from individual sub-aperture measurements using advanced...
+------------------------------------------------------------
+41. 论文ID: WEP58
+   标题: Structural design of the injection and extraction electrostatic septum of PREF
+   页码: 257
+   PDF状态: ✓ 可下载
+   PDF链接: https://meow.elettra.eu/88/pdf/WEP58.pdf
+   DOI: https://doi.org/10.18429/JACoW-MEDSI2025-WEP58
+   摘要: Proton Radiation Effects Facility (PREF) is a dedicated accelerator generating 10-60 MeV proton beams for studying space radiation impacts on satellites and optoelectronics. To achieve a compact and cost-effective synchrotron (circumference of 18 m), an electrostatic septum system was developed, del...
+------------------------------------------------------------
+42. 论文ID: WEP62
+   标题: The girder system prototype for the ALBA II storage ring
+   页码: 263
+   PDF状态: ✓ 可下载
+   PDF链接: https://meow.elettra.eu/88/pdf/WEP62.pdf
+   DOI: https://doi.org/10.18429/JACoW-MEDSI2025-WEP62
+   摘要: ALBA Synchrotron is developing an upgrade project for transforming its accelerator into a diffraction limited storage ring, with twenty-fold reduction of the emittance. The upgrade will be executed before the end of the decade, profiting at maximum all existing infrastructures, as the tunnel, and re...
+------------------------------------------------------------
+43. 论文ID: WEP63
+   标题: Thermal analysis of front end vacuum components & mirror for IVU
+   页码: 24
+   PDF状态: ✗ 不可用
+   PDF链接: https://meow.elettra.eu/88/pdf/WEP63.pdf
+   DOI: https://doi.org/10.18429/JACoW-MEDSI2025-WEP63
+   摘要: beamline at the Korea-4GSRCurrently under construction in Ochang, Chungcheongbuk-do, Korea-4GSR is a 4GeV, 4th Generation Synchrotron Light Source. The front end is being designed to pass the powerful synchrotron radiation generated by the insertion device. High heat load components have hence been ...
+------------------------------------------------------------
+44. 论文ID: WEP64
+   标题: Thermal fatigue tests on CuCrZr photon shutters
+   页码: 267
+   PDF状态: ✓ 可下载
+   PDF链接: https://meow.elettra.eu/88/pdf/WEP64.pdf
+   DOI: https://doi.org/10.18429/JACoW-MEDSI2025-WEP64
+   摘要: The CuCrZr alloy has emerged as a preferred material for thermal absorbers in synchrotron light sources, bal-ancing mechanical strength, thermal conductivity, and cost-effectiveness. However, thermal fatigue design criteria for CuCrZr components under high-intensity X-ray beam exposure are not well ...
+------------------------------------------------------------
+45. 论文ID: WEP65
+   标题: Thermal stability of the Diamond storage ring
+   页码: 271
+   PDF状态: ✓ 可下载
+   PDF链接: https://meow.elettra.eu/88/pdf/WEP65.pdf
+   DOI: https://doi.org/10.18429/JACoW-MEDSI2025-WEP65
+   摘要: This presentation explores the thermal stability of the Diamond storage ring, highlighting significant air temperature variations both spatially and temporally. To monitor component temperatures, 34 Pt1000 temperature sensors have been installed across three girders within the same cell. Observation...
+------------------------------------------------------------
+46. 论文ID: WEP66
+   标题: Upgrade tuning system
+   页码: 3
+   PDF状态: ✗ 不可用
+   PDF链接: https://meow.elettra.eu/88/pdf/WEP66.pdf
+   DOI: https://doi.org/10.18429/JACoW-MEDSI2025-WEP66
+   摘要: rd harmonic cavity SLS 2.0As part of the SLS2.0 upgrade, it was foreseen to upgrade the tuning system of the 3rd harmonic cavity of the storage ring. The complete tuning system is installed in an isolation vacuum and has direct contact to a 4 Kelvin source, which means all components have to perform...
+------------------------------------------------------------
+47. 论文ID: WEP69
+   标题: Mechanical aspects of a magnetic measurement setup for superconducting undulators at European XFELThe European XFEL is developing superconducting undulators (SCUs) and planning their implementation with the goal of generating extremely hard X-rays with energies exceeding
+   页码: 40
+   PDF状态: ✗ 不可用
+   PDF链接: https://meow.elettra.eu/88/pdf/WEP69.pdf
+   DOI: https://doi.org/10.18429/JACoW-MEDSI2025-WEP69
+   摘要: keV. A key component for the development and quality assurance of SCU coils is SUNDAE1, a vertical liquid helium bath test stand designed for training SCU coils and measuring their magnetic field profiles. This contribution presents the mechanical design and commissioning of a sledge equipped with H...
+------------------------------------------------------------
+48. 论文ID: WEP70
+   标题: Optimization of a bending mirror system for dynamic focusingIn this paper, we present the preliminary development and optimization of a bending mirror system conducted as a preparatory study for the Shenzhen Superconducting Soft X-ray Free-Electron Laser (S
+   页码: 3
+   PDF状态: ✗ 不可用
+   PDF链接: https://meow.elettra.eu/88/pdf/WEP70.pdf
+   DOI: https://doi.org/10.18429/JACoW-MEDSI2025-WEP70
+   摘要: FEL). A prototype of the dynamic bending system is fabricated for experimental validation. It is designed to bend a flat mirror to 500 m radius of curvature (360 m RoC experimentally achieved eventually). Surface quality of the mirror before and after then bending are characterized in a cleanroom to...
+------------------------------------------------------------
+49. 论文ID: WEP71
+   标题: Removal and installation plans for the SOLEIL II upgrade
+   页码: 279
+   PDF状态: ✓ 可下载
+   PDF链接: https://meow.elettra.eu/88/pdf/WEP71.pdf
+   DOI: https://doi.org/10.18429/JACoW-MEDSI2025-WEP71
+   摘要: The SOLEIL synchrotron, which has been open to the scientific community since 2008, will benefit from an upgrade aimed at improving the brilliance, coherence, and flux of the X-ray beam delivered. This will make it possible to follow biological processes or the functioning of devices operating at su...
+------------------------------------------------------------
+50. 论文ID: WEP72
+   标题: Optimized design of a mechanical clamping device for surface shape testingClamping-induced deformation of the double-crystal monochromator (DCM) is a critical issue that urgently requires resolution. Due to challenges posed by high-radiation and ultra-high-vacuum environments, current DCM clamping devices rely heavily on computer simulations and lack support from measured data. To address this problem, we have developed a real-time clamping force acquisition device to measure surface shape changes of optical components under different clamping forces. In the offline state, interferometry is used to quantify relationships between clamping force and surface peak-to-valley (PV) as well as root mean square (RMS) values. In the online state,
+   页码: 2
+   PDF状态: ✗ 不可用
+   PDF链接: https://meow.elettra.eu/88/pdf/WEP72.pdf
+   DOI: https://doi.org/10.18429/JACoW-MEDSI2025-WEP72
+   摘要: D detectors and orthogonal analyzer crystals enable direct observation of Dumond diagrams of the crystal under test, achieving qualitative characterization of surface shapes. This study resolved the issue of uneven clamping force through structural improvements and established quantitative correlati...
+------------------------------------------------------------

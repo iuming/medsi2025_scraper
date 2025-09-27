@@ -1,0 +1,425 @@
+Session: TUP - Poster Session 1
+Session ID: 928-tup
+URL: https://meow.elettra.eu/88/session/928-tup/index.html
+爬取时间: 2025-09-27 10:22:21
+论文数量: 52
+可用PDF: 24/52
+================================================================================
+
+1. 论文ID: TUP01
+   标题: Airbox housing of the Jungfrau Detector for in Vacuum X-ray Diagnostics
+   页码: 29
+   PDF状态: ✓ 可下载
+   PDF链接: https://meow.elettra.eu/88/pdf/TUP01.pdf
+   DOI: https://doi.org/10.18429/JACoW-MEDSI2025-TUP01
+   摘要: At the European XFEL facility, ultrabright X-ray radiation is employed to investigate phenomena in a variety of sample materials with the highest spatial and temporal resolution. For X-ray detection, the scientific ‘Jungfrau’ detector is frequently employed, as it matches the parameters of the provi...
+------------------------------------------------------------
+2. 论文ID: TUP02
+   标题: A new beamline for Enhanced Liquid Interface Spectroscopy and Analysis (ELISA) at BESSY IIThe Enhanced Liquid Interface Spectroscopy and Analysis (ELISA) beamline at BESSY-II is engineered for cutting-edge liquid interface research. Integrating soft X-ray (
+   页码: 40
+   PDF状态: ✗ 不可用
+   PDF链接: https://meow.elettra.eu/88/pdf/TUP02.pdf
+   DOI: https://doi.org/10.18429/JACoW-MEDSI2025-TUP02
+   摘要: –3500 eV) and infrared (10–10,000 cm⁻¹) radiation, its dual-branch design optimizes beamtime efficiency and experimental versatility. ELISA features ultra-precise gratings (of 400, 1200 and 2400 l/mm line density, including Cr/C multilayer-coatings on the gratings and pre-mirror at the monochromator...
+------------------------------------------------------------
+3. 论文ID: TUP03
+   标题: A new integrated x-ray diffractometer for advanced diffraction beamlinesThe advent at last generation synchrotron sources of extremely brilliant beamlines combined with fast photon-counter detector and high throughput sample changers change the paradigm of beamtime use. The time required by the diffractometer to handle the sample is the new bottleneck for the beamtime throughput. At IRELEC, we developed a new x-ray diffractometer aiming to close the gap and accelerate the whole process while pushing the mechanical precision and stability to new standard that exceed the usual requirements at modern diffraction beamlines. To reach this goal, we combined fast and synchronic translations to setup the sample environment with a high precision rotation stage keeping the ensemble very compact to minimize the in-air beam path and make the sample to detector distance as small as possible. To demonstrate the performance during our qualification tests on a first prototype, we had to tackle metrology challenge. The device and its performance are presented as well as the comparison of different method to perform the metrology. The commissioning at Synchrotron beamlines of this new device will be performed end of
+   页码: 2025
+   PDF状态: ✗ 不可用
+   PDF链接: https://meow.elettra.eu/88/pdf/TUP03.pdf
+   DOI: https://doi.org/10.18429/JACoW-MEDSI2025-TUP03
+   摘要: at APS and beginning of 2026 at MAX IV.R. RICHAUD, N. Foos  IRELECA. CUNRATH  IRELEC, Alcen (France)
+------------------------------------------------------------
+4. 论文ID: TUP06
+   标题: An overview of the time-resolved capabilities and sample setup modularity at CoSAXS
+   页码: 33
+   PDF状态: ✓ 可下载
+   PDF链接: https://meow.elettra.eu/88/pdf/TUP06.pdf
+   DOI: https://doi.org/10.18429/JACoW-MEDSI2025-TUP06
+   摘要: CoSAXS is a multipurpose SAXS instrument located at the 3 GeV ring of MAX IV Laboratory in Sweden. This instrument provides a versatile platform for conducting Small-Angle X-ray scattering (SAXS) experiments on a wide range of research fields. With an extensive pool of sample environments, CoSAXS en...
+------------------------------------------------------------
+5. 论文ID: TUP07
+   标题: Applying advanced manufacturing techniques to improve in-vacuum cooling within the SWIFT beamline.SWIFT is one of the flagship beamlines being developed in the Diamond-II programme. As part of D-II upgrades, the electron beam energy will be increased from
+   页码: 3
+   PDF状态: ✗ 不可用
+   PDF链接: https://meow.elettra.eu/88/pdf/TUP07.pdf
+   DOI: https://doi.org/10.18429/JACoW-MEDSI2025-TUP07
+   摘要: GeV to 3.5GeV, leading both to a brighter beam and higher power deposition onto beam conditioning components (filters, slits, beam shutters) presenting new thermal management challenges. These components are usually water cooled via a copper pipe loop brazed around the main component, requiring a do...
+------------------------------------------------------------
+6. 论文ID: TUP08
+   标题: A safe and X-ray transparent aluminium sample cell for high pressure and high temperature nano-diffraction imaging
+   页码: 37
+   PDF状态: ✓ 可下载
+   PDF链接: https://meow.elettra.eu/88/pdf/TUP08.pdf
+   DOI: https://doi.org/10.18429/JACoW-MEDSI2025-TUP08
+   摘要: The European Synchrotron Radiation Facility beamline ID01 performs Bragg Coherent Diffraction Imaging and X-ray nano-diffraction experiments with in-situ environments. A new sample environment for nanoparticles has been designed and tested. It combines a furnace and a pressurized X-ray transparent c...
+------------------------------------------------------------
+7. 论文ID: TUP09
+   标题: Automated high pressure water cell - HPWCThe poster presents the development of a high-pressure water cell (HPWC) to be used at the diffraction beamline P
+   页码: 02
+   PDF状态: ✗ 不可用
+   PDF链接: https://meow.elettra.eu/88/pdf/TUP09.pdf
+   DOI: https://doi.org/10.18429/JACoW-MEDSI2025-TUP09
+   摘要: .1, at PETRA III depicting its mechanical design and the challenges to achieve operating pressures up to 10 kbar (1 GPa). A crucial part of this setup is on its automation, in which the pressure increments are introduced by means of a spindle-pump type compressor. The spindle pump is driven by a ste...
+------------------------------------------------------------
+8. 论文ID: TUP10
+   标题: A wavelength-dispersive spectrometer for resonant inelastic X-ray scatteringConventional X-ray techniques often lack the energy resolution, the efficiency or the polarization sensitivity required. In collaboration with the NIST the PTB has developed a new wavelength-dispersive spectrometer (WDS) capable of high-resolution XES and RIXS in the photon energy range from
+   页码: 80
+   PDF状态: ✗ 不可用
+   PDF链接: https://meow.elettra.eu/88/pdf/TUP10.pdf
+   DOI: https://doi.org/10.18429/JACoW-MEDSI2025-TUP10
+   摘要: eV to 1500 eV. The WDS finds its main applications in the investigation of low Z compounds and battery material research, the validation and development of theoretical calculation tools, and the accurate determination of x-ray fundamental parameters$*$. The innovative design is based on a modified H...
+------------------------------------------------------------
+9. 论文ID: TUP11
+   标题: Compact multi-purpose imager for the Matter in Extreme Conditions end-station at LCLS
+   页码: 41
+   PDF状态: ✓ 可下载
+   PDF链接: https://meow.elettra.eu/88/pdf/TUP11.pdf
+   DOI: https://doi.org/10.18429/JACoW-MEDSI2025-TUP11
+   摘要: This paper presents the mechanical design of a new imaging system developed at the Matter in Extreme Conditions (MEC) instrument at the Linac Coherent Light Source (LCLS) to improve setup efficiency while maintaining high-quality imaging performances. We designed an in-vacuum setup for imaging both ...
+------------------------------------------------------------
+10. 论文ID: TUP15
+   标题: Creating a Multi-Capillary Furnace (MCF)
+   页码: 44
+   PDF状态: ✓ 可下载
+   PDF链接: https://meow.elettra.eu/88/pdf/TUP15.pdf
+   DOI: https://doi.org/10.18429/JACoW-MEDSI2025-TUP15
+   摘要: The Multi-Capillary Furnace (MCF) is a novel furnace design with four independent furnace units for use on the Spectroscopy beamlines at Diamond Light Source. This furnace offers users the opportunity for improved experimental efficiency by permitting up to four different samples in a reaction (e.g....
+------------------------------------------------------------
+11. 论文ID: TUP16
+   标题: CRISTALLINA-Q XFEL Diffractometers
+   页码: 47
+   PDF状态: ✓ 可下载
+   PDF链接: https://meow.elettra.eu/88/pdf/TUP16.pdf
+   DOI: https://doi.org/10.18429/JACoW-MEDSI2025-TUP16
+   摘要: In a well-known European free-electron laser facility (SwissFEL)$*$, a new branch(ARAMIS 3) of the beam line delivers hard X-ray to the CRISTALLINA experimental hutch. CRISTALINA-Q station inside, intends to investigate advanced materials focused on specific Quantum materials (QM) structures and pro...
+------------------------------------------------------------
+12. 论文ID: TUP17
+   标题: CXI end station at Softimax beamline MAX IV
+   页码: 51
+   PDF状态: ✓ 可下载
+   PDF链接: https://meow.elettra.eu/88/pdf/TUP17.pdf
+   DOI: https://doi.org/10.18429/JACoW-MEDSI2025-TUP17
+   摘要: A documentation of the design and production process of the CXI (coherent x-ray imaging) end station at SoftiMAX, a soft X-ray beamline at MAX IV. The station needs to allow practical removal from the beam allowing for visiting end stations. The diffracted light from the sample should be captured by...
+------------------------------------------------------------
+13. 论文ID: TUP18
+   标题: Design of a dedicated multilayer monochromator for electron beam size measurements using the Heterodyne Near Field Speckles (HNFS) technique at the ALBA synchrotron
+   页码: 54
+   PDF状态: ✓ 可下载
+   PDF链接: https://meow.elettra.eu/88/pdf/TUP18.pdf
+   DOI: https://doi.org/10.18429/JACoW-MEDSI2025-TUP18
+   摘要: Within the framework of the ALBA Diagnostics Group’s participation in a Future Circular Collider (FCC) collaboration, a dedicated setup for electron beam size measurement based on Heterodyne Near Field Speckles (HNFS) has been developed and installed at ALBA Front End 21 using radiation from a dipol...
+------------------------------------------------------------
+14. 论文ID: TUP20
+   标题: Scanning and transfer of cryogenic samples in the BioNanoProbe-II instrument at the Advanced Photon Source
+   页码: 58
+   PDF状态: ✓ 可下载
+   PDF链接: https://meow.elettra.eu/88/pdf/TUP20.pdf
+   DOI: https://doi.org/10.18429/JACoW-MEDSI2025-TUP20
+   摘要: A new hard x-ray fluorescence (XRF) nanoprobe in-strument called Bionanoprobe-II (BNP-II) has been designed and will be constructed at 2-ID-D of the up-graded Advanced Photon Source. BNP-II will take ad-vantage of the orders-of-magnitude increase in bright-ness and coherent flux with advanced sample...
+------------------------------------------------------------
+15. 论文ID: TUP21
+   标题: Design of the high energy microscopy beamline at Korea-
+   页码: 4
+   PDF状态: ✗ 不可用
+   PDF链接: https://meow.elettra.eu/88/pdf/TUP21.pdf
+   DOI: https://doi.org/10.18429/JACoW-MEDSI2025-TUP21
+   摘要: GSRThe High Energy Microscopy (HEM) beamline is being developed for X-ray projection imaging and computed tomography at the Korea 4th Generation Storage Ring (Korea-4GSR) currently under construction in Ochang, South Korea. The HEM beamline will deliver a fan beam with a horizontal size of 200 mm an...
+------------------------------------------------------------
+16. 论文ID: TUP22
+   标题: Designs of the first-phase beamlines for Siam Photon Source-II
+   页码: 61
+   PDF状态: ✓ 可下载
+   PDF链接: https://meow.elettra.eu/88/pdf/TUP22.pdf
+   DOI: https://doi.org/10.18429/JACoW-MEDSI2025-TUP22
+   摘要: Siam photon source-II (SPS-II) is a new synchrotron facility that is going to be built in Thailand. There are seven beamlines to be constructed together with the new machine. These consist of one soft X-ray beamline, two X-ray absorption beamlines, three X-ray scattering beamlines and one imaging be...
+------------------------------------------------------------
+17. 论文ID: TUP23
+   标题: Development of a white X-ray beam monitor for the undulator beamline at Korea-
+   页码: 4
+   PDF状态: ✗ 不可用
+   PDF链接: https://meow.elettra.eu/88/pdf/TUP23.pdf
+   DOI: https://doi.org/10.18429/JACoW-MEDSI2025-TUP23
+   摘要: GSRKorea-4GSR, a 4th generation synchrotron radiation facility under construction in Ochang, South Korea, will install ten beamlines in Phase-1, nine of which will use undulators as light sources. The central cone entering each beamline’s optics has a beam size about 1/10 that of the full white beam...
+------------------------------------------------------------
+18. 论文ID: TUP24
+   标题: Energy distribution of photoelectrons from the first mirror of a synchrotron radiation beamlinePhotoelectrons (PEs) are emitted from the surface of the first mirror of a synchrotron radiation (SR) beamline when irradiated with white x rays. It has been reported that the PEs transfer heat to the chamber walls and mirror holder, inducing thermal drift of the mirror and consequently causing beam position and energy drift. We designed a copper shield which covers the entire mirror surface to absorb the PEs. However, it was difficult to install due to its large size and hindered observation of the mirror surface, thereby making the maintenance of the mirror more difficult. To better understand the phenomenon of PE emission and to design a smaller and more efficient shield, we have conducted spectroscopic analysis of PEs involved in heat transfer using a retarding field energy analyzer at the beamline BL-
+   页码: 11
+   PDF状态: ✗ 不可用
+   PDF链接: https://meow.elettra.eu/88/pdf/TUP24.pdf
+   DOI: https://doi.org/10.18429/JACoW-MEDSI2025-TUP24
+   摘要: A of Photon Factory. The analyses revealed that the energy distribution of PEs is largely independent of the beam's angle of incidence on the mirror surface, and that most of the emitted power originates from PEs with energies in the 1-2 keV range, although more than half of the emitted PEs have ene...
+------------------------------------------------------------
+19. 论文ID: TUP25
+   标题: Engineering design of the CDI beamline endstation at NSLS-IIThe Coherent Diffractive Imaging (CDI) beamline is one of the three advanced beamlines developed through the NSLS-II Experimental Tools (NEXT II) project at Brookhaven National Laboratory. This advanced hard X-ray beamline supports a photon energy range from
+   页码: 5
+   PDF状态: ✗ 不可用
+   PDF链接: https://meow.elettra.eu/88/pdf/TUP25.pdf
+   DOI: https://doi.org/10.18429/JACoW-MEDSI2025-TUP25
+   摘要: keV to 15 keV, enabling high-resolution imaging and characterization techniques. The CDI endstation integrated a custom-built beam conditioning system with an in-house-developed microscope, a six-degree-of-freedom sample positioning system, and a Two-Detector Motion System (TDMS). Key engineering ch...
+------------------------------------------------------------
+20. 论文ID: TUP26
+   标题: The MID Instrument of European XFEL:
+   页码: 2025
+   PDF状态: ✓ 可下载
+   PDF链接: https://meow.elettra.eu/88/pdf/TUP26.pdf
+   DOI: https://doi.org/10.18429/JACoW-MEDSI2025-TUP26
+   摘要: Upgrades and Experimental Setups65In this poster insights are given on some examples of 2025 Upgrades and Experimental Setups at the MID instrument of European XFEL. The latest design and implementation status of MID Multi-Purpose Chamber (MPC-2) Project are reported. This represents a set of upgrad...
+------------------------------------------------------------
+21. 论文ID: TUP27
+   标题: Experimental station at MicroMAXMicroMAX is the second macromolecular crystallography (MX) beamline at MAX IV designed primarily for time resolved studies of microcrystals using novel sample delivery methods grouped under Serial Synchrotron Crystallography (SSX) as well as conventional rotation data collection. Samples can be studied in the range from room temperature to
+   作者: K. Time resolved studies are supported by a tuneable nanosecond laser. The experimental station has two area detectors (Eiger2X 9M CdTe, and Jungfrau 9M); an Arinax MD3-UP goniometer; an Irelec ISARA sample changer with a liquid nitrogen dewar capable of storing 29 Unipucks (464 samples); a beam conditioning unit; and a granite gantry for supporting additional equipment. The inhouse designed instrumentation includes the detector support for the two detectors, the sample table with six degrees of freedom, the gantry, as well as the beam conditioning unit and the mirror system and their support.M. Milas, A. Begum, A. Gonzalez, C. Cecilia, D. Lang, E. Panepucci, J. Nan, K. Rollet, L. Roslund, M. Malmgren, M. Chenchiliyan, M. Bjelcic, O. Aurelius, S. Benedictsson, T. Ursby, T. Krojer
+   机构: MAX IV LaboratoryA. Finke, I. Gorgisyan European Spallation SourceS. Aggarwal Lund University
+   页码: 90
+   PDF状态: ✗ 不可用
+   PDF链接: https://meow.elettra.eu/88/pdf/TUP27.pdf
+   DOI: https://doi.org/10.18429/JACoW-MEDSI2025-TUP27
+------------------------------------------------------------
+22. 论文ID: TUP28
+   标题: MicroMAX beam conditioning unit
+   页码: 69
+   PDF状态: ✓ 可下载
+   PDF链接: https://meow.elettra.eu/88/pdf/TUP28.pdf
+   DOI: https://doi.org/10.18429/JACoW-MEDSI2025-TUP28
+   摘要: A new Beam Conditioning Unit (BCU) has been developed for the MicroMAX beamline at MaxIV to condition the beam between the KB mirrors and the sample. It includes two XBPMs, a set of slits, a rotating chopper, a fast shutter and a linear attenuator, all on piezo driven stages. MicroMAX has a close co...
+------------------------------------------------------------
+23. 论文ID: TUP30
+   标题: FL
+   页码: 28
+   PDF状态: ✗ 不可用
+   PDF链接: https://meow.elettra.eu/88/pdf/TUP30.pdf
+   DOI: https://doi.org/10.18429/JACoW-MEDSI2025-TUP30
+   摘要: : A new diagnostic beamline for ultra-short XUV FEL pulses at FLASH 2The FLASH2020+ project$*$, a major upgrade program for the high-repetition-rate XUV and soft X-ray free-electron laser FLASH at DESY, aims at significantly improving the FEL photon-beam properties for users. Besides external seedin...
+------------------------------------------------------------
+24. 论文ID: TUP33
+   标题: High-precision alignment of an upgraded soft X-ray polarimeter at Diamond Light Source
+   页码: 75
+   PDF状态: ✓ 可下载
+   PDF链接: https://meow.elettra.eu/88/pdf/TUP33.pdf
+   DOI: https://doi.org/10.18429/JACoW-MEDSI2025-TUP33
+   摘要: Knowledge of X-ray beam polarisation on a synchrotron beamline is essential, not only for characterising the undulator performance, but also for precise analysis of dichroic and chiral experiments. The upgraded high-precision soft X-ray polarimeter at Diamond Light Source features multiple retarder ...
+------------------------------------------------------------
+25. 论文ID: TUP34
+   标题: High resolution beam defining slits for Korea–
+   页码: 4
+   PDF状态: ✗ 不可用
+   PDF链接: https://meow.elettra.eu/88/pdf/TUP34.pdf
+   DOI: https://doi.org/10.18429/JACoW-MEDSI2025-TUP34
+   摘要: GSR beamlinesThe beamlines of 4GSR use an undulator as the light source and consist of a DCM (Double Crystal Monochromator), beam focusing devices, and slit devices. The Beam Defining Slit, installed after the DCM, processes an X-ray beam of several tens of micrometers with sub-micron precision. Thi...
+------------------------------------------------------------
+26. 论文ID: TUP39
+   标题: Latest progress on two new ALS-U beamlines for diffraction-limited performance
+   页码: 79
+   PDF状态: ✓ 可下载
+   PDF链接: https://meow.elettra.eu/88/pdf/TUP39.pdf
+   DOI: https://doi.org/10.18429/JACoW-MEDSI2025-TUP39
+   摘要: The Advanced Light Source Upgrade (ALS-U) will increase soft X-ray coherent flux by 100×. We developed two new beamlines, engineered to minimize loss of brightness and utilize the advanced coherence of the light source. Each beamline uses a minimalist optical layout: a cryogenically-cooled silicon M...
+------------------------------------------------------------
+27. 论文ID: TUP40
+   标题: Macromolecular crystallography at beamline P
+   页码: 11
+   PDF状态: ✗ 不可用
+   PDF链接: https://meow.elettra.eu/88/pdf/TUP40.pdf
+   DOI: https://doi.org/10.18429/JACoW-MEDSI2025-TUP40
+   摘要: DESY’s MX beamline P11 has been operating since 2012 at PETRA III and offers versatile focusing options to match the beam size and desired dose with diverse samples and various kinds of experiments$*$. The important upgrade of P11 hardware is planned for the near future. We will exchange the diffrac...
+------------------------------------------------------------
+28. 论文ID: TUP41
+   标题: Mechanical design and implementation of a High Harmonic Generation source at the SXP instrument
+   页码: 83
+   PDF状态: ✓ 可下载
+   PDF链接: https://meow.elettra.eu/88/pdf/TUP41.pdf
+   DOI: https://doi.org/10.18429/JACoW-MEDSI2025-TUP41
+   摘要: The Time-Resolved X-Ray Photoelectron Spectroscopy (TR-XPES) experimental station at the Soft X-ray Port - SXP Scientific Instrument of the European XFEL has been developed to perform femtosecond time-resolved photoelectron spectroscopy experiments on solids. The SXP Scientific Instrument opens new ...
+------------------------------------------------------------
+29. 论文ID: TUP42
+   标题: Mechanical design of an off-axis parabolic mirror holder with six degrees of freedomThe XRD (X-Ray Diffraction Chamber) is one of the endstations of the SCS instrument, specifically designed for experiments on solid targets. Its sample holder features six-degree-of-freedom motion, allowing for precise positioning and alignment of the sample. During THz experiments at the XRD endstation of the SCS instrument, a
+   页码: 2
+   PDF状态: ✗ 不可用
+   PDF链接: https://meow.elettra.eu/88/pdf/TUP42.pdf
+   DOI: https://doi.org/10.18429/JACoW-MEDSI2025-TUP42
+   摘要: ″ off-axis parabolic mirror must be precisely positioned in six degrees of freedom under UHV conditions (10⁻⁷ mbar). Each axis is equipped with encoder feedback and adjustable limit switches. Because of the focus length of 50.8 mm (2 ”) there is a very limited installation space. In operation, the m...
+------------------------------------------------------------
+30. 论文ID: TUP43
+   标题: Microfocus tender X-ray beamline utilizing dipole radiation at BESSY IIA new beamline has been established on a dipole magnet at BESSY II in PTB’s own laboratory. The microfocus of the beamline has a typical spot size of
+   页码: 20
+   PDF状态: ✗ 不可用
+   PDF链接: https://meow.elettra.eu/88/pdf/TUP43.pdf
+   DOI: https://doi.org/10.18429/JACoW-MEDSI2025-TUP43
+   摘要: µm x 20 µm within the range of 1.5 keV to 10 keV monochromatized dipole radiation. Particularly, the microfocus will make X-ray spectrometric measurements more efficient and accurate, especially for techniques such as micro-X-ray fluorescence spectroscopy and X-ray emission spectroscopy using a von ...
+------------------------------------------------------------
+31. 论文ID: TUP46
+   标题: New HXS (Hard X-ray Scattering) beamline design at European XFELThe European XFEL, located in Schenefeld, Germany is a major X-ray research facility which started operation in September
+   页码: 2017
+   PDF状态: ✗ 不可用
+   PDF链接: https://meow.elettra.eu/88/pdf/TUP46.pdf
+   DOI: https://doi.org/10.18429/JACoW-MEDSI2025-TUP46
+   摘要: and generates ultrashort X-ray flashes for photon science experiments with an outstanding peak brilliance. In the six months long maintenance period starting in June 2025 it is planned to build up the new HXS experimental station in the experimental hall and its beam transport system in the tunnel. ...
+------------------------------------------------------------
+32. 论文ID: TUP47
+   标题: Optimizing SGM beamline performance: hexapod and spectroscopy enhancements
+   页码: 90
+   PDF状态: ✓ 可下载
+   PDF链接: https://meow.elettra.eu/88/pdf/TUP47.pdf
+   DOI: https://doi.org/10.18429/JACoW-MEDSI2025-TUP47
+   摘要: Recent developments on the Spherical Grating Monochromator (SGM) beamline at the Canadian Light Source (CLS) have significantly enhanced its capabilities, particularly through the integration of a vacuum-compatible Physik Instrumente hexapod (H-811.I2V) and the implementation of Bluesky data acquisi...
+------------------------------------------------------------
+33. 论文ID: TUP48
+   标题: Rapid beamline diagnostics for upcoming BESSY II+ SoTeXS beamline
+   页码: 93
+   PDF状态: ✓ 可下载
+   PDF链接: https://meow.elettra.eu/88/pdf/TUP48.pdf
+   DOI: https://doi.org/10.18429/JACoW-MEDSI2025-TUP48
+   摘要: As part of the BESSY II+ * upgrade, the new SoTeXS (Soft-to-Tender X-ray Spectroscopy) beamline will enable high-precision, high-throughput studies of battery materials in the 0.5–5 keV energy range. At the endstation, battery cells with varying material combinations will undergo charging and discha...
+------------------------------------------------------------
+34. 论文ID: TUP53
+   标题: Studies for a novel generation of the beam profile measurement (beam wire scanner) for the Large Hadron Collider (LHC)
+   页码: 103
+   PDF状态: ✓ 可下载
+   PDF链接: https://meow.elettra.eu/88/pdf/TUP53.pdf
+   DOI: https://doi.org/10.18429/JACoW-MEDSI2025-TUP53
+   摘要: Aiming for the improvement of the reliability and maintainability of the LHC linear wire scanners, a completely new concept is currently under development. The innovative design will eliminate the use of bellows, feature a more precise and optimized wire positioning system, and incorporate a signifi...
+------------------------------------------------------------
+35. 论文ID: TUP54
+   标题: Technical developments of the microfocus endstation at Beamline P
+   页码: 03
+   PDF状态: ✗ 不可用
+   PDF链接: https://meow.elettra.eu/88/pdf/TUP54.pdf
+   DOI: https://doi.org/10.18429/JACoW-MEDSI2025-TUP54
+   摘要: / PETRAIIIP03 is the MiNaXS Beamline at PETRA III covering a variety of technics, e.g. Gi/T-S/W-AXS, XRF and XRR$*$. An adaptive flight-tube enables changes of the SAXS detector distance (from 1.5 - 9.7 m). Another key feature of P03 is the operation of a customized L-shaped LAMBDA 9M detector syste...
+------------------------------------------------------------
+36. 论文ID: TUP55
+   标题: Test beamline construction and device performance evaluation at PLS-IIA test beamline has been built at the Pohang Light Source-II (PLS-II) to check the performance of new diagnostic and optical devices. The entire beamline is installed inside an experimental hutch, which includes basic support systems like a portable crane, cooling lines, and air lines for easier setup and testing. Currently, the beamline includes a
+   页码: 4
+   PDF状态: ✗ 不可用
+   PDF链接: https://meow.elettra.eu/88/pdf/TUP55.pdf
+   DOI: https://doi.org/10.18429/JACoW-MEDSI2025-TUP55
+   摘要: -way slit, screen monitor, wire scanner, and a double crystal monochromator (DCM). New diagnostic devices for synchrotron radiation will also be developed and tested here. Optical devices such as the DCM and mirror manipulator are being upgraded, and we are focusing on improving mechanical stability...
+------------------------------------------------------------
+37. 论文ID: TUP56
+   标题: The extreme conditions catalytic cell for BL
+   页码: 01
+   PDF状态: ✓ 可下载
+   PDF链接: https://meow.elettra.eu/88/pdf/TUP56.pdf
+   DOI: https://doi.org/10.18429/JACoW-MEDSI2025-TUP56
+   摘要: at ALBA107A new catalytic cell has been developed for the Infrared Spectroscopy and Microscopy (MIRAS-BL01) beamline at the ALBA synchrotron. The aim of this instrument is to study catalytic reactions, crucial for advancing sustainable chemistry by enabling energy-efficient processes and minimizing ...
+------------------------------------------------------------
+38. 论文ID: TUP57
+   标题: The millisecond x-ray fast shutter for BL
+   页码: 31
+   PDF状态: ✓ 可下载
+   PDF链接: https://meow.elettra.eu/88/pdf/TUP57.pdf
+   DOI: https://doi.org/10.18429/JACoW-MEDSI2025-TUP57
+   摘要: at ALBA110A new high-speed beam shutter has been developed for the fast x-ray tomography & radioscopy (FAXTOR-BL31) beamline at the ALBA synchrotron, which aims at preventing high dose rate at the sample and provides a synchronization to the acquisition protocol. The non-periodic fast shutter is bas...
+------------------------------------------------------------
+39. 论文ID: TUP58
+   标题: The new ALBA diffractometer for microfocus beam macromolecular crystallography experiments at XAIRA beamline
+   页码: 113
+   PDF状态: ✓ 可下载
+   PDF链接: https://meow.elettra.eu/88/pdf/TUP58.pdf
+   DOI: https://doi.org/10.18429/JACoW-MEDSI2025-TUP58
+   摘要: XAIRA, the new microfocus MX beamline at ALBA aims to deliver optimal diffraction images by enclosing the entire end-station in He atmosphere, including the diffractometer and the detector, while keeping the compatibility with standard cryo-crystallography tools and robot. The sub-100 nm SoC diffrac...
+------------------------------------------------------------
+40. 论文ID: TUP59
+   标题: The new microfocus station for the NOTOS beamline at the ALBA synchrotron
+   页码: 116
+   PDF状态: ✓ 可下载
+   PDF链接: https://meow.elettra.eu/88/pdf/TUP59.pdf
+   DOI: https://doi.org/10.18429/JACoW-MEDSI2025-TUP59
+   摘要: The NOTOS beamline at ALBA combines X-ray Absorption Spectroscopy (XAS) and X-ray Diffraction (XRD) experiments, operating in the 4.5-30 keV range. Since 2022, it has offered two end stations (ES): one for metrology and XAS, and another combining XAS and XRD. To overcome the current 100×100 µm² spot...
+------------------------------------------------------------
+41. 论文ID: TUP60
+   标题: Thermal modelling, design and evaluation of a cryogenic cooling system for a beamline endstation
+   页码: 119
+   PDF状态: ✓ 可下载
+   PDF链接: https://meow.elettra.eu/88/pdf/TUP60.pdf
+   DOI: https://doi.org/10.18429/JACoW-MEDSI2025-TUP60
+   摘要: The accurate estimation of thermal contact conductance (TCC) is a fundamental need towards the optimal design of a cryogenic cooling system for the new flagship beamline CSXID at Diamond Light Source, which utilizes mechanically pressed copper components to form the heat conduction path. To aid deve...
+------------------------------------------------------------
+42. 论文ID: TUP61
+   标题: Ultra-high-resolution monochromators for XFEL applications at LCLS-II-HE: a
+   页码: 4
+   PDF状态: ✗ 不可用
+   PDF链接: https://meow.elettra.eu/88/pdf/TUP61.pdf
+   DOI: https://doi.org/10.18429/JACoW-MEDSI2025-TUP61
+   摘要: f Optical approach with channel-cut crystalsTraditional synchrotron monochromators cannot handle the extreme thermal loads and stability demands of XFELs, especially for seeded X-rays. To overcome this, LCLS-II-HE has developed a multi-stage monochromator system integrating two double channel-cut (D...
+------------------------------------------------------------
+43. 论文ID: TUP62
+   标题: Upgrade of crystal positioners for the ESRF Double Crystal MonochromatorThe ESRF Double Crystal Monochromator (ESRF-DCM) was designed and developed in-house to enable spectroscopy beamlines to fully exploit the ESRF-EBS upgrade. While such key components always demand high beam positioning accuracy and stability, the EBS source requires even more stringent performance, such as a fast and continuous energy scanning crucial for modern spectroscopy. Meeting the challenging ESRF-DCM specifications involved high-precision mechanical design coupled with a mechatronic system for active correction of the crystal parallelism based on an online metrology. As part of ongoing optimization efforts, we recently focused on upgrading the actuators for crystal positioning to further enhance performance. These new actuators were integrated onto an ESRF-DCM during Spring
+   页码: 2025
+   PDF状态: ✗ 不可用
+   PDF链接: https://meow.elettra.eu/88/pdf/TUP62.pdf
+   DOI: https://doi.org/10.18429/JACoW-MEDSI2025-TUP62
+   摘要: . This presentation will provide a brief overview of the DCM design principles, then focus on the design, integration, and commissioning results of these upgraded actuators. Finally, key performance characterizations of the DCM using X-rays, demonstrating the impact of the upgrade, will be presented...
+------------------------------------------------------------
+44. 论文ID: TUP63
+   标题: Versatile x-ray reflector extension setup for grazing-incidence experiments at SAXS Facilities for liquid surface study at Beamline P
+   页码: 03
+   PDF状态: ✗ 不可用
+   PDF链接: https://meow.elettra.eu/88/pdf/TUP63.pdf
+   DOI: https://doi.org/10.18429/JACoW-MEDSI2025-TUP63
+   摘要: /PETRA IIIExisting beamlines for in situ GISAXS on liquids are either limited in angular range or incompatible with the large sample-detector distance required for submicron resolution. We present a low-cost, easily assembled beam-tilting extension for synchrotron-based ultra-small-angle X-ray scatt...
+------------------------------------------------------------
+45. 论文ID: TUP64
+   标题: XBPF design and prototyping
+   页码: 122
+   PDF状态: ✓ 可下载
+   PDF链接: https://meow.elettra.eu/88/pdf/TUP64.pdf
+   DOI: https://doi.org/10.18429/JACoW-MEDSI2025-TUP64
+   摘要: The CERN Beam Instrumentation Group has developed a new scintillating fibre beam profile monitor for the secondary beam lines of the CERN North Experimental Area. This innovative monitor employs plastic scintillating fibres, read out with silicon photomultipliers, to provide a cost-effective and eff...
+------------------------------------------------------------
+46. 论文ID: TUP65
+   标题: Beamline engineering progress and key equipment development at Hefei Advanced Light Facility (HALF)The Hefei Advanced Light Facility (HALF) is a diffraction-limited storage ring light source currently under construction. Its storage ring will operate at
+   页码: 2
+   PDF状态: ✗ 不可用
+   PDF链接: https://meow.elettra.eu/88/pdf/TUP65.pdf
+   DOI: https://doi.org/10.18429/JACoW-MEDSI2025-TUP65
+   摘要: .2 GeV with a circumference of 479.86 m and a natural emittance of 86.3 pm·rad. Engineering design for the first phase, comprising 10 beamlines covering the vacuum ultraviolet (VUV) to medium-energy X-ray range, has been completed. Among these beamlines, eight utilize grating monochromators, one emp...
+------------------------------------------------------------
+47. 论文ID: TUP66
+   标题: FEL-I beamline at SHINEThe Shanghai High Repetition Rate XFEL and Extreme Light Facility (SHINE) encompasses a high repetition rate XFEL and a
+   页码: 100
+   PDF状态: ✗ 不可用
+   PDF链接: https://meow.elettra.eu/88/pdf/TUP66.pdf
+   DOI: https://doi.org/10.18429/JACoW-MEDSI2025-TUP66
+   摘要: PW laser facility. The facility is designed to operate at a repetition rate of 1 MHz, with an energy range from 0.4 keV to 15 keV. SHINE features two primary beamlines: FEL-I and FEL-II. The FEL-II beamline covers the energy range from 0.4 to 3 keV, while the FEL-I beamline operates within the range...
+------------------------------------------------------------
+48. 论文ID: TUP67
+   标题: Design of high power load front ends for two upcoming beamlines at CHESSFront end components must endure the harshest operating conditions of all the elements in a synchrotron beamline. At the same time, reliability is a key aspect of their design, with no tolerance for downtime due to the typically very limited access. The unique challenges presented by the front ends of the upcoming Sector
+   页码: 5
+   PDF状态: ✗ 不可用
+   PDF链接: https://meow.elettra.eu/88/pdf/TUP67.pdf
+   DOI: https://doi.org/10.18429/JACoW-MEDSI2025-TUP67
+   摘要: and 6 beamlines at CHESS are presented here together with the solutions adopted. The beamlines feature each two undulator sources. In one beamline, the undulators are installed in series for a power load of 12.4 kW over a 6x9 mm2 area, with a peak power density of 2270 W/mm2. In the other beamline, ...
+------------------------------------------------------------
+49. 论文ID: TUP68
+   标题: The High Magnetic Field beamline at CHESS: endstation challenges, solutions and implementationThe High Magnetic Field (ID
+   页码: 5
+   PDF状态: ✗ 不可用
+   PDF链接: https://meow.elettra.eu/88/pdf/TUP68.pdf
+   DOI: https://doi.org/10.18429/JACoW-MEDSI2025-TUP68
+   摘要: A) beamline currently under construction at CHESS will enable the study of samples with hard X-rays under an extreme DC magnetic field up to 20T. The sample is inserted into an XYZ stage embedded at the center of a superconducting magnet, which can rotate around the vertical axis. Magnet rotation is...
+------------------------------------------------------------
+50. 论文ID: TUP69
+   标题: Status of SLS
+   页码: 2
+   PDF状态: ✗ 不可用
+   PDF链接: https://meow.elettra.eu/88/pdf/TUP69.pdf
+   DOI: https://doi.org/10.18429/JACoW-MEDSI2025-TUP69
+   摘要: .0 front endsAs part of the SLS 2.0 upgrade program, front-end systems have been extensively redesigned, refurbished, or constructed entirely anew to accommodate increased heat load, higher power density, and more compact device requirements$*$. Of the 18 front ends in scope, 12 have been installed ...
+------------------------------------------------------------
+51. 论文ID: TUP70
+   标题: FemtoMAX beamline instrumentation and femtosecond pump-probe time-resolved experiments at the MAX IV LaboratoryFemtoMAX is a multi-purpose, short-pulse X-ray beamline at MAX IV, uniquely located at the short pulse facility downstream of the LINAC, rather than the
+   页码: 3
+   PDF状态: ✗ 不可用
+   PDF链接: https://meow.elettra.eu/88/pdf/TUP70.pdf
+   DOI: https://doi.org/10.18429/JACoW-MEDSI2025-TUP70
+   摘要: GeV storage ring. Operational since 2021, it enables time-resolved X-ray diffraction/scattering experiments in the femtosecond to picosecond range using &LT100 fs X-ray photon pulses$*$ that make it possible to follow the ultrafast dynamics in solid materials and biological molecules by investigatin...
+------------------------------------------------------------
+52. 论文ID: TUP71
+   标题: Parallel kinematic mirror systems - Compensation of parasitic motions in long photon beamlinesThe horizontal offset and distribution mirror chambers (CHOMs) in the photon beam lines of the European XFEL are based on a parallel kinematic system. While these systems consist of simple and reliable mechanical components and provide very good reproducibility for mirror positioning, there always is crosstalk between all motion axes. In the long (up to
+   页码: 600
+   PDF状态: ✗ 不可用
+   PDF链接: https://meow.elettra.eu/88/pdf/TUP71.pdf
+   DOI: https://doi.org/10.18429/JACoW-MEDSI2025-TUP71
+   摘要: m) beamlines of the European XFEL, the effect of the parasitic pitch motion is very dominant. We developed a strategy to translate the physical axes of the parallel kinematic system into virtual axes of the mirror coordinate system, and thus compensate for the parasitic motions. Application of the s...
+------------------------------------------------------------

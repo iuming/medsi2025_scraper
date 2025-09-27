@@ -1,0 +1,48 @@
+Session: WEOB - Accelerators Session 1
+Session ID: 1041-weob
+URL: https://meow.elettra.eu/88/session/1041-weob/index.html
+爬取时间: 2025-09-27 10:22:57
+论文数量: 5
+可用PDF: 4/5
+================================================================================
+
+1. 论文ID: WEOB01
+   标题: Copper alloy additive manufacturing for SOLEIL II
+   页码: 134
+   PDF状态: ✓ 可下载
+   PDF链接: https://meow.elettra.eu/88/pdf/WEOB01.pdf
+   DOI: https://doi.org/10.18429/JACoW-MEDSI2025-WEOB01
+   摘要: The Synchrotron SOLEIL is a large-scale research facility in France that provides synchrotron radiation from terahertz to hard X-rays for various scientific applications. To meet the evolving needs of the scientific community and to remain competitive with other European facilities, SOLEIL has plann...
+------------------------------------------------------------
+2. 论文ID: WEOB02
+   标题: Rapid development and implementation of a custom photon stop at the Advanced Light Source: from failure analysis to predictive maintenance
+   页码: 137
+   PDF状态: ✓ 可下载
+   PDF链接: https://meow.elettra.eu/88/pdf/WEOB02.pdf
+   DOI: https://doi.org/10.18429/JACoW-MEDSI2025-WEOB02
+   摘要: In June of 2023, the Advanced Light Source (ALS) at Lawrence Berkeley National Laboratory, Berkeley, California, United States, experienced a vacuum interlock event that caused a beam dump. Upon investigation, the vacuum technicians discovered a leak in the cooling system of a custom photon stop in ...
+------------------------------------------------------------
+3. 论文ID: WEOB03
+   标题: Cryogenic radiometry: a new absorber for X-rays up to
+   页码: 150
+   PDF状态: ✓ 可下载
+   PDF链接: https://meow.elettra.eu/88/pdf/WEOB03.pdf
+   DOI: https://doi.org/10.18429/JACoW-MEDSI2025-WEOB03
+   摘要: keV141The accurate measurement of radiant power is essential for the calibration of X-ray detectors, such as silicon photodiodes. Cryogenic electrical substitution radiometers (ESRs) perform high accuracy, absolute, measurements of radiant power. Material and geometry of the absorber in an ESR are c...
+------------------------------------------------------------
+4. 论文ID: WEOB04
+   标题: CBXFEL design, production, assembly, testing and installation status
+   页码: 144
+   PDF状态: ✓ 可下载
+   PDF链接: https://meow.elettra.eu/88/pdf/WEOB04.pdf
+   DOI: https://doi.org/10.18429/JACoW-MEDSI2025-WEOB04
+   摘要: Use of a cavity-based X-ray free electron laser (CBXFEL) is potentially a way to dramatically improve the stability and coherence of existing XFELs. CBXFEL consists of low-emittance electron source, a magnet system with several undulators and chicanes, and an X-Ray cavity. The X-Ray cavity stores an...
+------------------------------------------------------------
+5. 论文ID: WEOB05
+   标题: A new RF-contact spring mechanism for exchangeable cathodes in high brightness guns at DESYA new
+   页码: 5
+   PDF状态: ✗ 不可用
+   PDF链接: https://meow.elettra.eu/88/pdf/WEOB05.pdf
+   DOI: https://doi.org/10.18429/JACoW-MEDSI2025-WEOB05
+   摘要: th generation normal conducting electron gun with improved cell geometry and cooling concept for RF pulse durations of up to 1 ms at 10 Hz repetition rate, and gradients of ~60 MV/m at the cathode was developed and is being tested at the Photo Injector Test Facility at DESY in Zeuthen (PITZ). The ca...
+------------------------------------------------------------

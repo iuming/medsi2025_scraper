@@ -1,0 +1,48 @@
+Session: TUOA - Beamlines Session 1
+Session ID: 1038-tuoa
+URL: https://meow.elettra.eu/88/session/1038-tuoa/index.html
+爬取时间: 2025-09-27 10:21:55
+论文数量: 5
+可用PDF: 4/5
+================================================================================
+
+1. 论文ID: TUOA01
+   标题: APS upgrade - beamline engineering overview
+   页码: 1
+   PDF状态: ✓ 可下载
+   PDF链接: https://meow.elettra.eu/88/pdf/TUOA01.pdf
+   DOI: https://doi.org/10.18429/JACoW-MEDSI2025-TUOA01
+   摘要: The Advanced Photon Source Upgrade (APSU) has transformed the APS into a 4th generation light source. The new 6 GeV, 200 mA multi-bend achromat (MBA) storage ring, along with injector improvements and new front ends will provide an increased brightness and an orders-of-magnitude improvement in coher...
+------------------------------------------------------------
+2. 论文ID: TUOA02
+   标题: Design and technical commissioning of the In Situ Nanoprobe endstation and instrument at the Advanced Photon Source
+   页码: 3
+   PDF状态: ✓ 可下载
+   PDF链接: https://meow.elettra.eu/88/pdf/TUOA02.pdf
+   DOI: https://doi.org/10.18429/JACoW-MEDSI2025-TUOA02
+   摘要: The In Situ Nanoprobe (ISN) is a newly constructed, best-in-class experimental instrument at sector 19 of the upgraded Advanced Photon Source (APS-U). The new ISN beamline provides a 5-30 keV monochromatic x-ray beam, high coherence, and focused flux of >3x10^11 photon/sec @ 25 keV. KB mirror focusi...
+------------------------------------------------------------
+3. 论文ID: TUOA03
+   标题: NMX, a long neutron beamline at the European Spallation SourceNMX, the neutron macromolecular crystallography beamline, with its
+   页码: 157
+   PDF状态: ✗ 不可用
+   PDF链接: https://meow.elettra.eu/88/pdf/TUOA03.pdf
+   DOI: https://doi.org/10.18429/JACoW-MEDSI2025-TUOA03
+   摘要: m distance between neutron source and sample, is one of the long instruments about to enter into commissioning phase with neutrons at the European Spallation Source in Lund. While the neutron shielding system, 3 chopper disks and more than 150m of finely aligned neutron guide mirrors safely transpor...
+------------------------------------------------------------
+4. 论文ID: TUOA04
+   标题: Engineering advancements in x-ray pump–probe techniques using delayline technology at LCLS
+   页码: 7
+   PDF状态: ✓ 可下载
+   PDF链接: https://meow.elettra.eu/88/pdf/TUOA04.pdf
+   DOI: https://doi.org/10.18429/JACoW-MEDSI2025-TUOA04
+   摘要: X-ray pump–probe techniques at XFELs have revolutionized ultrafast science by enabling precise control of X-ray pulse pairs with tunable delays. This talk highlights key engineering breakthroughs in LCLS behind two critical methods: magnetic chicane systems and split-and-delay optics. Magnetic chica...
+------------------------------------------------------------
+5. 论文ID: TUOA05
+   标题: The design of SIBIPIRUNA - a cryogenic soft X-ray tomography beamline with BSL
+   页码: 2
+   PDF状态: ✓ 可下载
+   PDF链接: https://meow.elettra.eu/88/pdf/TUOA05.pdf
+   DOI: https://doi.org/10.18429/JACoW-MEDSI2025-TUOA05
+   摘要: , BSL3 and BSL4 compatibility for Sirius and Orion at CNPEM10Recent outbreaks of emerging infectious diseases have highlighted the need for enhanced biosafety measures and research capabilities. Addressing this, the Brazilian Center for Research in Energy and Materials (CNPEM) is spearheading the de...
+------------------------------------------------------------

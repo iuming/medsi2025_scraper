@@ -1,0 +1,48 @@
+Session: WEOC - Accelerators Session 2
+Session ID: 1042-weoc
+URL: https://meow.elettra.eu/88/session/1042-weoc/index.html
+爬取时间: 2025-09-27 10:23:08
+论文数量: 5
+可用PDF: 4/5
+================================================================================
+
+1. 论文ID: WEOC01
+   标题: Development of magnet prototype for Siam Photon Source II
+   页码: 148
+   PDF状态: ✓ 可下载
+   PDF链接: https://meow.elettra.eu/88/pdf/WEOC01.pdf
+   DOI: https://doi.org/10.18429/JACoW-MEDSI2025-WEOC01
+   摘要: The Siam Photon Source II (SPS-II) is Thailand’s next-generation 3 GeV synchrotron light source, designed to deliver high-brightness radiation for scientific and industrial use. Its storage ring, comprising 14 Double Triple Bend Achromat (DTBA) cells and targeting a natu-ral beam emittance below 1 n...
+------------------------------------------------------------
+2. 论文ID: WEOC02
+   标题: Lessons learned during removal and installation period of the Advanced Photon SourceThe Advanced Photon Source, a fourth generation light source located at Argonne National Laboratory, recently went through an upgrade where almost the entire storage ring and all the front ends were removed and either replaced or refurbished. The shutdown began in April of
+   页码: 2023
+   PDF状态: ✗ 不可用
+   PDF链接: https://meow.elettra.eu/88/pdf/WEOC02.pdf
+   DOI: https://doi.org/10.18429/JACoW-MEDSI2025-WEOC02
+   摘要: where all 200 girders and associated hardware were removed by the end of June. The first upgraded girder was installed in July 2024, hardware installation was completed by February 2024, first beam taken in April 2024 and first x-rays taken in June 2024. The $815M project has created a 200mA beam wi...
+------------------------------------------------------------
+3. 论文ID: WEOC03
+   标题: Complex bend vacuum chamber for NSLS-II Upgrade
+   页码: 151
+   PDF状态: ✓ 可下载
+   PDF链接: https://meow.elettra.eu/88/pdf/WEOC03.pdf
+   DOI: https://doi.org/10.18429/JACoW-MEDSI2025-WEOC03
+   摘要: While the NSLSII synchrotron is a third-generation light source providing outstanding brightness and flux, there is a robust R&D program in place to upgrade to a fourth generation, or beyond, facility. Inherent in the so-called complex-bend magnet and lattice designs are significant limitations on t...
+------------------------------------------------------------
+4. 论文ID: WEOC04
+   标题: Experience with a bunch lengthening cavity at the APS
+   页码: 155
+   PDF状态: ✓ 可下载
+   PDF链接: https://meow.elettra.eu/88/pdf/WEOC04.pdf
+   DOI: https://doi.org/10.18429/JACoW-MEDSI2025-WEOC04
+   摘要: The Advanced Photon Source Upgrade at Argonne National Laboratory (ANL) provides hard x-ray photon beams with a brightness 500 times greater than the original machine. A bunch lengthening cavity is used to decrease the effects of Touschek scattering (on beam lifetime) and intrabeam scattering (on be...
+------------------------------------------------------------
+5. 论文ID: WEOC05
+   标题: Results from the ALS-U storage ring alignment system prototype
+   页码: 158
+   PDF状态: ✓ 可下载
+   PDF链接: https://meow.elettra.eu/88/pdf/WEOC05.pdf
+   DOI: https://doi.org/10.18429/JACoW-MEDSI2025-WEOC05
+   摘要: ALS-U stability and alignment requirements coupled with tight space constraints present in the existing ALS have driven a new design for the storage ring support and alignment system. A prototype has been built and tested with alignment accuracy results in the 30 micron range and stability results i...
+------------------------------------------------------------

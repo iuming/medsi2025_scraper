@@ -1,0 +1,48 @@
+Session: TUOB - Beamlines Session 2
+Session ID: 1039-tuob
+URL: https://meow.elettra.eu/88/session/1039-tuob/index.html
+爬取时间: 2025-09-27 10:22:03
+论文数量: 5
+可用PDF: 4/5
+================================================================================
+
+1. 论文ID: TUOB01
+   标题: Research on active feedback control of monochromator crystal angle based on FPGADuring the experiment, the photon flux at the Surface Diffraction Beamline (BL
+   页码: 02
+   PDF状态: ✗ 不可用
+   PDF链接: https://meow.elettra.eu/88/pdf/TUOB01.pdf
+   DOI: https://doi.org/10.18429/JACoW-MEDSI2025-TUOB01
+   摘要: U2) of the Shanghai Synchrotron Radiation Facility exhibited a gradual attenuation phenomenon, which severely impacted the progress of scientific experiments. At 8 keV, the photon flux decreased by 20% over a period of 20 hours; whereas at 19 keV, the photon flux dropped by 78% within just 20 minute...
+------------------------------------------------------------
+2. 论文ID: TUOB02
+   标题: Active grating cooling system design for soft X-ray monochromator
+   页码: 14
+   PDF状态: ✓ 可下载
+   PDF链接: https://meow.elettra.eu/88/pdf/TUOB02.pdf
+   DOI: https://doi.org/10.18429/JACoW-MEDSI2025-TUOB02
+   摘要: We present an active cooling system for the grating mirrors of ID32 soft X-ray beamline at the European Synchrotron Radiation Facility (ESRF). The design combines flexible copper braids to minimize mechanical stress in the grating mirrors with active temperature control to accelerate thermal respons...
+------------------------------------------------------------
+3. 论文ID: TUOB03
+   标题: First steps into the operation of the SAPOTI cryogenic nanoprobe at the CARNAÚBA beamline at Sirius/LNLS
+   页码: 18
+   PDF状态: ✓ 可下载
+   PDF链接: https://meow.elettra.eu/88/pdf/TUOB03.pdf
+   DOI: https://doi.org/10.18429/JACoW-MEDSI2025-TUOB03
+   摘要: SAPOTI is the second nanoprobe at the CARNAÚBA (Coherent X-Ray Nanoprobe Beamline) beamline at the 4th-generation light source Sirius/LNLS. Working from 2.05 to 15 keV, it relies on simultaneous multi-analytical X-ray techniques (absorption, diffraction, spectroscopy, fluorescence and luminescence) ...
+------------------------------------------------------------
+4. 论文ID: TUOB04
+   标题: Recent advances in X-ray microscopy instrumentation developments at NSLS-II
+   页码: 22
+   PDF状态: ✓ 可下载
+   PDF链接: https://meow.elettra.eu/88/pdf/TUOB04.pdf
+   DOI: https://doi.org/10.18429/JACoW-MEDSI2025-TUOB04
+   摘要: X-ray microscopy is a mature characterization tool routinely used to investigate diverse material questions of science, technology, and engineering. The high penetration power of X-rays allows the utilization of different characterization methods and reveals elemental composition, crystalline phases...
+------------------------------------------------------------
+5. 论文ID: TUOB05
+   标题: Development of Coherent Diffractive Imaging Endstation at the SPring-
+   页码: 8
+   PDF状态: ✓ 可下载
+   PDF链接: https://meow.elettra.eu/88/pdf/TUOB05.pdf
+   DOI: https://doi.org/10.18429/JACoW-MEDSI2025-TUOB05
+   摘要: II 12XU26The National Synchrotron Radiation Research Center operates two beamlines, 12B2 and 12XU, at the Super Photon ring-8 GeV. The SPring-8 II significant improvements in beam properties such as coherence, stability, and intensity are expected. NSRRC has initiated the construction of a Coherent ...
+------------------------------------------------------------

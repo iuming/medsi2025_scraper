@@ -1,0 +1,32 @@
+Session: TUKB - Keynote Session 2
+Session ID: 1037-tukb
+URL: https://meow.elettra.eu/88/session/1037-tukb/index.html
+爬取时间: 2025-09-27 10:21:51
+论文数量: 3
+可用PDF: 0/3
+================================================================================
+
+1. 论文ID: TUKB01
+   标题: MAX
+   页码: 4
+   PDF状态: ✗ 不可用
+   PDF链接: https://meow.elettra.eu/88/pdf/TUKB01.pdf
+   DOI: https://doi.org/10.18429/JACoW-MEDSI2025-TUKB01
+   摘要: U - Our vision for MAX IVIn 2016, MAX IV inaugurated the first fourth-generation storage ring in the world. With unprecedented performance, this new accelerator paved the way for a new era of X-ray science. Currently, four more fourth-generation light sources are in operation, with many more to come...
+------------------------------------------------------------
+2. 论文ID: TUKB02
+   标题: MAX
+   页码: 4
+   PDF状态: ✗ 不可用
+   PDF链接: https://meow.elettra.eu/88/pdf/TUKB02.pdf
+   DOI: https://doi.org/10.18429/JACoW-MEDSI2025-TUKB02
+   摘要: U: Accelerator physics and engineering challenges of the first upgrade of a fourth-generation synchrotron light sourceThe MAX IV 3 GeV storage ring in Lund, Sweden, is the first multibend achromat (MBA) lattice fourth-generation light source worldwide and delivered at the time of its inauguration, i...
+------------------------------------------------------------
+3. 论文ID: TUKB03
+   标题: The European Spallation Source – ESS: Mechanical engineering and structural health monitoring.European Spallation Source (ESS) is a multi-disciplinary research facility currently being commissioned with major upcoming milestones for starting up operations. The mission of ESS is to operate the world’s most powerful accelerator-based neutron source to enable scientific breakthroughs in the areas of materials, energy, health and the environment. ESS is a multi-disciplinary research facility currently under commissioning. Neutrons are obtained through the process of spallation by delivering
+   页码: 2
+   PDF状态: ✗ 不可用
+   PDF链接: https://meow.elettra.eu/88/pdf/TUKB03.pdf
+   DOI: https://doi.org/10.18429/JACoW-MEDSI2025-TUKB03
+   摘要: GeV protons to the solid tungsten target. The Mechanical Engineering, Technology & Analysis (META) group develops and performs mechanical engineering on facility level as well as performs the consolidated machine design under the ESS Plant Layout. ESS pursues stringent goals for machine availability...
+------------------------------------------------------------

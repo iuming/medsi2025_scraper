@@ -1,0 +1,16 @@
+Session: TUKA - Welcome & MEDSI 25th Anniversary Keynote
+Session ID: 936-tuka
+URL: https://meow.elettra.eu/88/session/936-tuka/index.html
+爬取时间: 2025-09-27 10:21:48
+论文数量: 1
+可用PDF: 0/1
+================================================================================
+
+1. 论文ID: TUKA01
+   标题: MEDSI: from inception to the
+   页码: 25
+   PDF状态: ✗ 不可用
+   PDF链接: https://meow.elettra.eu/88/pdf/TUKA01.pdf
+   DOI: https://doi.org/10.18429/JACoW-MEDSI2025-TUKA01
+   摘要: th anniversary and beyond – founders’ perspectiveThe 2000 two-day Mechanical Engineering Design of Synchrotron Radiation Equipment and Instrumentation (MEDSI) workshop has since evolved into a key event fostering the networking of light sources’ engineering community. The conference was conceived to...
+------------------------------------------------------------
