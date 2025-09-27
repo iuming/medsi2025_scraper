@@ -52,6 +52,3 @@ Thumbs.db
 temp/
 cache/
 *.tmp
-
-# Large data files (keep structure but not actual PDFs)
-MEDSI2025_Data/PDFs/**/*.pdf
